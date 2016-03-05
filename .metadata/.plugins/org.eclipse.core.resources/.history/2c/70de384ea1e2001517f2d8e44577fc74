@@ -1,0 +1,20 @@
+package inet;
+
+import java.io.Serializable;
+import java.net.UnknownHostException;
+
+	/*
+	 *import java.net.InetAddress; 
+	 */
+	@SuppressWarnings("serial")
+	public final class InetAddress extends Object implements Serializable{
+		public static InetAddress getLocalHost2() throws UnknownHostException {
+			return null;
+		}
+		public static InetAddress getByName2(String host)throws UnknownHostException{
+			return null;
+		}
+//		public String toString(){
+//			return ((hostName!=null)?hostName:"")+"/"getHostAddress();
+//		}
+	}
