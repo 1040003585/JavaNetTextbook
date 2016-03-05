@@ -1,2 +1,2 @@
 # javanettextbook
-《Java网络程序设计》目录
+《Java网络程序设计》
