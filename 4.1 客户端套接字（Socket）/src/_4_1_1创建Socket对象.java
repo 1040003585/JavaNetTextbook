@@ -17,10 +17,12 @@ public class _4_1_1创建Socket对象 {
 			System.out.println("hello");
 		} catch (UnknownHostException e) {
 			System.out.println("hello2");
-			e.printStackTrace();
+//			e.printStackTrace();
+			System.err.println(e);
 		} catch (IOException e) {
 			System.out.println("hello3");
 			e.printStackTrace();
+			System.err.println(e);
 		}
 		
 

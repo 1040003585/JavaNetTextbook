@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1458650848671
+activated,view,org.eclipse.debug.ui,3.4.2.v20090110_r342,org.eclipse.debug.ui.VariableView,1458650851468
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1458650851546
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1458650976375
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1458650985218
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1458650986859
+activated,view,org.eclipse.ui.views,3.3.1.M20081112-0800,org.eclipse.ui.views.ContentOutline,1458651070843
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.rename,1458651072875
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.rename,1458651075765
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1458651090296
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1458651090312
+opened,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1458651090390
+activated,perspective,org.eclipse.debug.ui,3.4.2.v20090110_r342,org.eclipse.debug.ui.DebugPerspective,1458651090390
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.window.newWindow,1458651090390
+started,bundle,org.eclipse.mylyn.ide.ant,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.ide.ant,1458651092625
+started,bundle,org.eclipse.mylyn.pde.ui,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.pde.ui,1458651092640
+started,bundle,org.eclipse.mylyn.resources.ui,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.resources.ui,1458651092640
+started,bundle,org.eclipse.search,3.4.1.r341_v20080813-0800,org.eclipse.search,1458651092734
+closed,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1458651092750
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1458651092796
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1458651093781
+executed,command,org.eclipse.ui.workbench.texteditor,3.4.1.r341_v20080827-1100,org.eclipse.ui.edit.text.showInformation,1458651095796
+activated,view,org.eclipse.ui.views,3.3.1.M20081112-0800,org.eclipse.ui.views.ContentOutline,1458651097640
+activated,perspective,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.JavaPerspective,1458651100812
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.rename,1458651104171

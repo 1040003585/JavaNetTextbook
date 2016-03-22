@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/1基础的IO流编程技术/src/ioTest.java"/>
+<listEntry value="/1基础的IO流编程技术/src/IOTest0_Simple.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ioTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="IOTest0_Simple"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="1基础的IO流编程技术"/>
 </launchConfiguration>

@@ -1,0 +1,23 @@
+
+/**
+ * 
+ * @author Wu_Being
+ * 2016.3.22
+ */
+public class ioTest1 {
+	/**
+	 * 
+	 * @param fromFilename2
+	 * @param toFilename2
+	 */
+	public static void Input(String fromFilename,String toFilename){
+		String filepathAndFilenameIn=fromFilename;
+		String filepathAndFilenameOut=toFilename;
+		
+		
+	}
+	public static void main(String[]args){
+		ioTest1 test = new ioTest1();
+		ioTest1.Input(fromFilename, toFilename)
+	}
+}
