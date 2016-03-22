@@ -1,0 +1,8 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jst.j2ee.ui,1.1.206.v200901280857,org.eclipse.jst.j2ee.ui,1458637683640
+stopped,bundle,org.eclipse.jst.jsf.apache.trinidad.tagsupport,1.0.101.v20090128,org.eclipse.jst.jsf.apache.trinidad.tagsupport,1458637683656
+stopped,bundle,org.eclipse.jst.jsf.facesconfig.ui,1.1.3.v20090128,org.eclipse.jst.jsf.facesconfig.ui,1458637683828
+stopped,bundle,org.eclipse.jst.jsf.ui,1.1.102.v20090128,org.eclipse.jst.jsf.ui,1458637683875
+stopped,bundle,org.eclipse.jst.pagedesigner.jsf.ui,1.1.1.v20090129,org.eclipse.jst.pagedesigner.jsf.ui,1458637683906
+stopped,bundle,org.eclipse.jst.pagedesigner,1.1.1.v200902051421,org.eclipse.jst.pagedesigner,1458637683937
+stopped,bundle,org.eclipse.jst.jsf.common.ui,1.1.0.v20080605,org.eclipse.jst.jsf.common.ui,1458637684015
