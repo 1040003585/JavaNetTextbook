@@ -1,0 +1,56 @@
+http://blog.csdn.net/xdong001/article/details/5363471
+
+ 实验一 网络编程基础环境实验
+标签： 编程网络netbeansstringthreadjava
+2010-03-10 09:04 1343人阅读 评论(17) 收藏 举报
+分类：
+网络通信编程（17）
+版权声明：本文为博主原创文章，未经博主允许不得转载。
+实验一 网络编程基础环境实验
+实验目的：
+1、学会基于NetBeans6编写JAVA程序；
+2、掌握基础的I/O流编程技术；
+3、掌握基于Thread类编程的具体应用。
+实验要求：
+1、建立一个独立的文件管理编程的JAVA工程；
+2、能正确运行且能实现文件管理程序；
+3、对文件管理程序的功能进行拓广，使用Thread类实现文件管理。
+实验内容：
+1、建立服务器端工程和JAVA类，类程序的源代码为：
+import java.io.*;
+public class ioTest {
+  public static void main(String args[]) {
+    String s_FileName = "c:/test.txt";
+    String s_DFileName = "c:/test1.txt";
+    try {
+      //定义输入流
+      FileInputStream fis = new FileInputStream(s_FileName);
+      BufferedInputStream bis = new BufferedInputStream(fis);
+      //定义输出流
+      FileOutputStream fos = new FileOutputStream(s_DFileName);
+      BufferedOutputStream bos = new BufferedOutputStream(fos);
+      DataOutputStream dos = new DataOutputStream(bos);
+      int b;
+      while ( (b = bis.read()) != -1) {
+        dos.write(b);
+      }
+      bis.close();
+      dos.close();
+    }
+    catch (IOException e) {
+      System.err.println(e);
+    }
+  }
+}
+3、调试使以上工程能正常运行。
+4、对程序代码进行阅读和理解，要求做到每条语句都能明白其具体含义，每个类都了解其功能。
+5、对以上程序进行适当的修改，要求文件复制功能保留，同时对于大文件能使用多线程复制。（注其它修改的方向有：通过键盘输入文件名、图形化界面。）
+6、撰写实验报告
+实验报告包：实验报告首页、实验步骤（每步的内容，有程序的要求有源码和运行结果及结果描述）、实验心得。
+
+顶
+    0
+
+踩
+    0
+
