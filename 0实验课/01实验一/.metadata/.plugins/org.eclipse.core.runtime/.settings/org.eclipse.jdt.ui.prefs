@@ -1,4 +1,4 @@
-#Tue Mar 22 19:06:09 CST 2016
+#Tue Mar 22 21:58:59 CST 2016
 sourceHoverBackgroundColor=255,255,225
 content_assist_proposals_foreground=0,0,0
 spelling_locale_initialized=true
@@ -20,4 +20,5 @@ org.eclipse.jdt.internal.ui.navigator.layout=2
 content_assist_number_of_computers=17
 useQuickDiffPrefPage=true
 org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.io.InputStream"><rhs name\="java.io.BufferedInputStream"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.BufferedInputStream"/><rhs name\="java.io.BufferedOutputStream"/><rhs name\="java.io.DataOutputStream"/><rhs name\="java.io.FileOutputStream"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.BufferedInputStream"/><rhs name\="java.io.BufferedOutputStream"/><rhs name\="java.io.DataOutputStream"/><rhs name\="java.io.FileOutputStream"/><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FilterInputStream"><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.io.BufferedInputStream"><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="java.io.BufferedOutputStream"/><rhs name\="java.io.DataOutputStream"/><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.BufferedOutputStream"/><rhs name\="java.io.DataOutputStream"/><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileOutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FilterOutputStream"><rhs name\="java.io.BufferedOutputStream"/><rhs name\="java.io.DataOutputStream"/></lhs><lhs name\="java.io.BufferedOutputStream"><rhs name\="java.io.BufferedOutputStream"/></lhs><lhs name\="java.io.DataOutput"><rhs name\="java.io.DataOutputStream"/></lhs><lhs name\="java.io.DataOutputStream"><rhs name\="java.io.DataOutputStream"/></lhs></history>
 org.eclipse.jdt.ui.text.code_templates_migrated=true
