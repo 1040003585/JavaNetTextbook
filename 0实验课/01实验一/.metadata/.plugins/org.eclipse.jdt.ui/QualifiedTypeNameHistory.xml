@@ -10,4 +10,9 @@
 <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.NEW"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Text"/>
+<fullyQualifiedTypeName name="IOTest0_Simple"/>
+<fullyQualifiedTypeName name="com.sun.java.swing.plaf.windows.resources.windows"/>
+<fullyQualifiedTypeName name="IOTest3_Shell"/>
+<fullyQualifiedTypeName name="sun.awt.DisplayChangedListener"/>
 </qualifiedTypeNameHistroy>
