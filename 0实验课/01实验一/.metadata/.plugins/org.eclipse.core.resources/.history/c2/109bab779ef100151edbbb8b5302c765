@@ -1,0 +1,36 @@
+import org.eclipse.swt.widgets.Display;
+import org.eclipse.swt.widgets.Shell;
+
+import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Text;
+
+public class IOTest3_Shell{
+	protected Shell shell;
+	private Text text;
+	
+	public static void main(String[] args){
+		IOTest3_Shell window = new IOTest3_Shell();
+		window.open();
+		System.out.println("hello .");
+	}
+	
+	public void open(){
+		Display display=Display.getDefault();
+		createContents();
+		shell.open();
+		shell.layout();
+		while(!shell.isDisposed()){
+			if(!display.readAndDispatch()){
+				display.sleep();
+			}
+		}
+	}
+
+	protected void createContents() {
+		shell=new Shell();
+		shell.setBounds(300, 300, 500, 400);
+		shell.setText("Wu_Being¡ª¡ª²Ù×÷½çÃæ");
+		
+	}
+	
+	
+}

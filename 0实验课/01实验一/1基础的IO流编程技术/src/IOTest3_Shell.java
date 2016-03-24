@@ -1,5 +1,11 @@
-import java.io.*;
-import org.eclipse.jface.dialogs.MessageDialog;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.StringReader;
+
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.MouseAdapter;
 import org.eclipse.swt.events.MouseEvent;
@@ -12,14 +18,16 @@ import org.eclipse.swt.widgets.Text;
 public class IOTest3_Shell {
 	protected Shell shell;
 	private Text text;
-	
+
 	public static void main(String[] args) {
 		try {
 			IOTest3_Shell window = new IOTest3_Shell();
 			window.open();
 		} catch (Exception e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println("hello .");
 	}
 
 	public void open() {
@@ -27,85 +35,105 @@ public class IOTest3_Shell {
 		createContents();
 		shell.open();
 		shell.layout();
-
 		while (!shell.isDisposed()) {
 			if (!display.readAndDispatch()) {
 				display.sleep();
 			}
 		}
-
 	}
 
 	protected void createContents() {
 		shell = new Shell();
 		shell.setBounds(300, 300, 300, 300);
-		shell.setText("\u64CD\u4F5C\u754C\u9762");
+		shell.setText("Wu_Being——操作界面");
+		/////////////////////////////////////////////////////////////////////////
 		{
-			Button btnNewButton = new Button(shell, SWT.NONE);
-			btnNewButton.addMouseListener(new MouseAdapter() {
+			Button getButton = new Button(shell, SWT.NONE);
+			getButton.addMouseListener(new MouseAdapter() {
 				public void mouseDown(MouseEvent e) {
-					FileDialog dialog = new FileDialog(shell, SWT.OPEN);
-					dialog.setFilterExtensions(new String[] { "*.txt", ".doc", "*.*" }); 
-					dialog.setFilterPath("D:\\A"); 
+					FileDialog dialog = new FileDialog(shell, SWT.NONE);
+					dialog.setFilterExtensions(new String[] { "*.txt", "*.doc",
+							"*.*" });	//设置过滤的文件扩展名
+					dialog				//设置文件路径
+							.setFilterPath("E:\\gitfile\\javanettextbook\\javanettextbook\\0实验课\\01实验一\\IOTestFiles\\");
 					String fileName = dialog.open();
+					System.out.println(fileName);//test
 					if (fileName != null) {
 						try {
-							FileReader fr = new FileReader(fileName);
-							BufferedReader br = new BufferedReader(fr);
-							while(br.readLine() != null) {
-								String str = br.readLine();
-								text.setText(str + '\n');
+							FileReader fileReader = new FileReader(fileName);
+							BufferedReader bufferedReader = new BufferedReader(
+									fileReader);
+							while(bufferedReader.readLine()!=null){
+								String lineString=bufferedReader.readLine();
+								text.setText(lineString+'\n');
 							}
-						} catch(IOException ioe) {
-							MessageDialog.openInformation(shell, "警告", "文件未找到！");
+						} catch (FileNotFoundException e1) {
+							e1.printStackTrace();
+						} catch (IOException e1) {
+							e1.printStackTrace();
+						} finally {
 						}
 					} else {
 						return;
 					}
+
 				}
 			});
-			btnNewButton.setBounds(10, 210, 120, 37);
-			btnNewButton.setText("\u8BF7\u9009\u62E9\u8981\u6253\u5F00\u7684\u6587\u4EF6");
+			getButton.setBounds(10, 210, 130, 40);
+			getButton.setText("请选择要打开的文件");
 		}
+
+		////////////////////////////////////////////////////////////////////////
 		{
-			Button button = new Button(shell, SWT.NONE);
-			button.addMouseListener(new MouseAdapter() {
-				public void mouseDown(MouseEvent e) {
+			Button setButton = new Button(shell,SWT.NONE);
+			setButton.addMouseListener(new MouseAdapter(){
+				public void mouseDown(MouseEvent e){
 					FileDialog dialog = new FileDialog(shell, SWT.SAVE);
-					dialog.setFilterExtensions(new String[] { "*.txt", ".doc", "*.*" });
-					dialog.setFilterPath("D:\\A"); 
+					dialog.setFilterExtensions(new String[] { "*.txt", "*.doc",
+							"*.*" });	//设置过滤的文件扩展名
+					dialog				//设置文件路径
+							.setFilterPath("E:\\gitfile\\javanettextbook\\javanettextbook\\0实验课\\01实验一\\IOTestFiles\\");
 					String fileName = dialog.open();
+					System.out.println(fileName);//test
 					if (fileName != null) {
-						if(text.getText() != null) {
-							BufferedReader br = new BufferedReader(new StringReader(text.getText()));
-							try {
-								FileWriter fw = new FileWriter(fileName, true);
-								BufferedWriter pw = new BufferedWriter(fw);
-								String str = "";
-								while((str = br.readLine()) != null) {
-									pw.write(str);
-									pw.newLine();
-									pw.flush();
-									text.setText("");
-								}
-								br.close();
-								fw.close();
-								pw.close();
-							} catch(IOException ioe) {
-								ioe.printStackTrace();
+						BufferedReader bufferedReader = new BufferedReader(new StringReader(text.getText()));
+						try {
+							FileWriter fileWriter = new FileWriter(fileName,true);
+							BufferedWriter bufferedWriter = new BufferedWriter(
+									fileWriter);
+							String lineString="";
+							while((lineString=bufferedReader.readLine())!=null){
+								bufferedWriter.write(lineString);
+								bufferedWriter.newLine();
+								bufferedWriter.flush();
+								text.setText("");
 							}
+
+							bufferedReader.close();
+							fileWriter.close();
+							bufferedWriter.close();
+						} catch (FileNotFoundException e1) {
+							e1.printStackTrace();
+						} catch (IOException e1) {
+							e1.printStackTrace();
+						} finally {
 						}
 					} else {
 						return;
 					}
+
+					
 				}
 			});
-			button.setBounds(150, 210, 120, 37);
-			button.setText("\u8BF7\u9009\u62E9\u8981\u4FDD\u5B58\u7684\u8DEF\u5F84");
+			setButton.setBounds(150, 210, 130, 40);
+			setButton.setText("请选择要保存的路径");
 		}
+		////////////////////////////////////////////////////////////////////////
 		{
-			text = new Text(shell, SWT.BORDER);
-			text.setBounds(10, 10, 260, 184);
+			text=new Text(shell,SWT.BORDER);
+			text.setBounds(10, 10, 270, 185);
 		}
 	}
+	
+
 }

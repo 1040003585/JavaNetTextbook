@@ -2610,3 +2610,15 @@ org.eclipse.swt.SWTException: Device is disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)
+!SESSION 2016-03-24 16:27:52.812 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui.workbench.texteditor 4 0 2016-03-24 16:28:08.593
+!MESSAGE The 'org.eclipse.wst.jsdt.web.ui.internal.hyperlink.script.JSPJavaHyperlinkDetector' extension from plug-in 'org.eclipse.wst.jsdt.web.ui' to the 'org.eclipse.ui.workbench.texteditor.hyperlinkDetectors' extension point will be ignored because it contains invalid attributes.
+
+!ENTRY org.eclipse.ui.workbench.texteditor 4 0 2016-03-24 16:28:08.609
+!MESSAGE The 'org.eclipse.wst.jsdt.web.ui.internal.hyperlink.script.event.JSPJavaHyperlinkDetector' extension from plug-in 'org.eclipse.wst.jsdt.web.ui' to the 'org.eclipse.ui.workbench.texteditor.hyperlinkDetectors' extension point will be ignored because it contains invalid attributes.

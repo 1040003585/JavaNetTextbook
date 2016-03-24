@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/NLpack1-eclipse-RCP-3.2-win32.zip"/>
 	<classpathentry kind="lib" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/org.eclipse.swt.win32.win32.x86_3.102.0.v20130605-1544.jar"/>
+	<classpathentry kind="lib" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/org.eclipse.jface.nl1_3.2.0.v200606220026.jar"/>
+	<classpathentry kind="lib" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/org.eclipse.jface.databinding.nl1_1.0.0.v200606220026.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
