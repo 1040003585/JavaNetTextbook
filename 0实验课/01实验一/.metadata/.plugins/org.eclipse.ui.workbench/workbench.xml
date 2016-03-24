@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="30" version="2.0">
 <workbenchAdvisor/>
-<window height="738" maximized="true" width="1024" x="364" y="15">
+<window height="738" minimized="true" width="1024" x="376" y="-4">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -21,6 +21,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="183" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
@@ -48,10 +49,6 @@
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest0_Simple.java" partName="IOTest0_Simple.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest0_Simple.java" title="IOTest0_Simple.java" tooltip="1基础的IO流编程技术/src/IOTest0_Simple.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest0_Simple.java"/>
-<editorState selectionLength="0" selectionOffset="1"/>
-</editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest1_SecurelyClose.java" partName="IOTest1_SecurelyClose.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest1_SecurelyClose.java" title="IOTest1_SecurelyClose.java" tooltip="1基础的IO流编程技术/src/IOTest1_SecurelyClose.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest1_SecurelyClose.java"/>
 <editorState selectionLength="0" selectionOffset="1095"/>
@@ -59,10 +56,6 @@
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest2_3Methods.java" partName="IOTest2_3Methods.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest2_3Methods.java" title="IOTest2_3Methods.java" tooltip="1基础的IO流编程技术/src/IOTest2_3Methods.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest2_3Methods.java"/>
 <editorState selectionLength="0" selectionOffset="1256"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest3_Shell.java" partName="IOTest3_Shell.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest3_Shell.java" title="IOTest3_Shell.java" tooltip="1基础的IO流编程技术/src/IOTest3_Shell.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest3_Shell.java"/>
-<editorState selectionLength="0" selectionOffset="1825"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest4_Windows.java" partName="IOTest4_Windows.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest4_Windows.java" title="IOTest4_Windows.java" tooltip="1基础的IO流编程技术/src/IOTest4_Windows.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest4_Windows.java"/>
@@ -95,6 +88,14 @@
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest6_NewJFrame.java" partName="IOTest6_NewJFrame.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest6_NewJFrame.java" title="IOTest6_NewJFrame.java" tooltip="1基础的IO流编程技术/src/IOTest6_NewJFrame.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest6_NewJFrame.java"/>
 <editorState selectionLength="0" selectionOffset="29"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest3_Shell.java" partName="IOTest3_Shell.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IOTest3_Shell.java" title="IOTest3_Shell.java" tooltip="1基础的IO流编程技术/src/IOTest3_Shell.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IOTest3_Shell.java"/>
+<editorState selectionLength="0" selectionOffset="3299"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IoTest.java" partName="IoTest.java" path="E:/gitfile/javanettextbook/javanettextbook/0实验课/01实验一/1基础的IO流编程技术/src/IoTest.java" title="IoTest.java" tooltip="1基础的IO流编程技术/src/IoTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1基础的IO流编程技术/src/IoTest.java"/>
+<editorState selectionLength="0" selectionOffset="2149"/>
 </editor>
 </editors>
 <views>
@@ -329,28 +330,30 @@
 <new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
-<view id="org.eclipse.jdt.ui.PackageExplorer"/>
-<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
-<fastViewBars/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="left" orientation="512" selectedTabId="org.eclipse.jdt.ui.PackageExplorer" style="0">
+<fastViews>
+<view id="org.eclipse.jdt.ui.PackageExplorer" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="left">
-<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
-<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="756" ratioRight="252" relationship="2" relative="left">
@@ -361,7 +364,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.301845" ratioLeft="409" ratioRight="946" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.78913736" ratioLeft="494" ratioRight="132" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.7686084" ratioLeft="475" ratioRight="143" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -495,176 +498,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/Test.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest2_3Methods.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest3_Shell.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest4_.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest4_Windows.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest5.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest60.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOJFrame.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_IOJFrame.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_1.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/iotest2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/iotest3.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_3.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_IOJFrame2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/NewJFrame.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest6_NewJFrame.java"/>
-<editor element="=1基础的IO流编程技术/E:\/gitfile\/javanettextbook\/javanettextbook\/0实验课\/01实验一\/org.eclipse.jface.jar.zip" factoryID="org.eclipse.jdt.ui.internal.JarEntryEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="license.txt"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IOTest0_Simple.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=1基础的IO流编程技术/E:\/gitfile\/javanettextbook\/javanettextbook\/0实验课\/01实验一\/org.eclipse.swt.win32.win32.x86_3.102.0.v20130605-1544.jar&lt;org.eclipse.swt.widgets(TypedListener.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=1基础的IO流编程技术/E:\/gitfile\/javanettextbook\/javanettextbook\/0实验课\/01实验一\/org.eclipse.swt.win32.win32.x86_3.102.0.v20130605-1544.jar&lt;org.eclipse.swt.widgets(EventTable.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/1基础的IO流编程技术/src/IoTest.java"/>
 </editors>
-<item historyLabel="Test.java" index="0">
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2216" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="Test.java" index="0">
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2218" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="4213" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2484" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1123" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1957" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1960" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1957" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1959" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1967" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1943" y="14"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2216" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1958" y="14"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1690" y="0"/>
+</item>
+<item historyLabel="TypedListener.class" index="2">
 <position/>
 </item>
-<item historyLabel="Test.java" index="0">
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1690" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2290" y="0"/>
+</item>
+<item historyLabel="EventTable.class" index="3">
 <position/>
 </item>
-<item historyLabel="IOTest2_3Methods.java" index="1">
-<position info="not_deleted" x="253" y="5"/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2290" y="0"/>
 </item>
-<item historyLabel="IOTest2_3Methods.java" index="1">
-<position info="not_deleted" x="265" y="5"/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2242" y="0"/>
 </item>
-<item historyLabel="IOTest2_3Methods.java" index="1">
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2121" y="38"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1030" y="36"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="832" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1030" y="36"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="749" y="9"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="719" y="17"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1972" y="0"/>
+</item>
+<item historyLabel="IoTest.java" index="4">
 <position/>
 </item>
-<item historyLabel="IOTest3_Shell.java" index="2">
-<position info="not_deleted" x="83" y="0"/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="1972" y="0"/>
 </item>
-<item historyLabel="IOTest3_Shell.java" index="2">
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest3_Shell.java" index="2">
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2726" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest3_Shell.java" index="2">
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="4196" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="4181" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="4185" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="4190" y="0"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="3284" y="1"/>
+</item>
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest3_Shell.java" index="2">
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest4_.java" index="3">
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest3_Shell.java" index="2">
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest4_.java" index="3">
-<position info="not_deleted" x="565" y="0"/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="3737" y="0"/>
 </item>
-<item historyLabel="IOTest4_Windows.java" index="4">
-<position info="not_deleted" x="5759" y="0"/>
-</item>
-<item historyLabel="IOTest4_Windows.java" index="4">
-<position info="not_deleted" x="5773" y="0"/>
-</item>
-<item historyLabel="IOTest4_.java" index="3">
-<position info="not_deleted" x="453" y="0"/>
-</item>
-<item historyLabel="IOTest4_Windows.java" index="4">
-<position info="not_deleted" x="594" y="0"/>
-</item>
-<item historyLabel="IOTest4_Windows.java" index="4">
-<position info="not_deleted" x="275" y="0"/>
-</item>
-<item historyLabel="IOTest5.java" index="5">
-<position info="not_deleted" x="11" y="0"/>
-</item>
-<item historyLabel="IOTest5.java" index="5">
-<position info="not_deleted" x="358" y="0"/>
-</item>
-<item historyLabel="IOTest60.java" index="6">
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOJFrame.java" index="7">
-<position info="not_deleted" x="269" y="8"/>
-</item>
-<item historyLabel="IOTest6_IOJFrame.java" index="8">
+<item historyLabel="IOTest3_Shell.java" index="0">
 <position/>
 </item>
-<item historyLabel="IOTest6_1.java" index="9">
-<position/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="940" y="19"/>
 </item>
-<item historyLabel="iotest2.java" index="10">
-<position/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2478" y="0"/>
 </item>
-<item historyLabel="IOTest6_2.java" index="11">
-<position info="not_deleted" x="146" y="0"/>
+<item historyLabel="IOTest0_Simple.java" index="1">
+<position info="not_deleted" x="1" y="0"/>
 </item>
-<item historyLabel="IOTest6_2.java" index="11">
-<position info="not_deleted" x="89" y="0"/>
+<item historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2478" y="0"/>
 </item>
-<item historyLabel="iotest3.java" index="12">
-<position/>
-</item>
-<item historyLabel="IOTest6_3.java" index="13">
-<position info="not_deleted" x="135" y="0"/>
-</item>
-<item historyLabel="IOTest6_3.java" index="13">
-<position info="not_deleted" x="977" y="0"/>
-</item>
-<item historyLabel="IOTest6_.java" index="14">
-<position/>
-</item>
-<item historyLabel="IOTest6_IOJFrame2.java" index="15">
-<position info="not_deleted" x="419" y="8"/>
-</item>
-<item historyLabel="IOTest6_IOJFrame2.java" index="15">
-<position info="not_deleted" x="218" y="8"/>
-</item>
-<item historyLabel="IOTest6_IOJFrame.java" index="8">
-<position info="not_deleted" x="588" y="0"/>
-</item>
-<item historyLabel="IOTest6_IOJFrame2.java" index="15">
-<position/>
-</item>
-<item historyLabel="IOTest6_1.java" index="9">
-<position info="not_deleted" x="1032" y="0"/>
-</item>
-<item historyLabel="IOTest5.java" index="5">
-<position info="not_deleted" x="2329" y="0"/>
-</item>
-<item historyLabel="IOTest3_Shell.java" index="2">
-<position/>
-</item>
-<item historyLabel="IOTest6_IOJFrame2.java" index="15">
-<position info="not_deleted" x="195" y="0"/>
-</item>
-<item historyLabel="IOTest3_Shell.java" index="2">
-<position/>
-</item>
-<item historyLabel="IOTest6_IOJFrame2.java" index="15">
-<position info="not_deleted" x="195" y="0"/>
-</item>
-<item historyLabel="IOTest6.java" index="16">
-<position/>
-</item>
-<item historyLabel="NewJFrame.java" index="17">
-<position info="not_deleted" x="320" y="9"/>
-</item>
-<item historyLabel="IOTest6_NewJFrame.java" index="18">
-<position info="not_deleted" x="29" y="0"/>
-</item>
-<item historyLabel="IOTest3_Shell.java" index="2">
-<position info="not_deleted" x="17" y="0"/>
-</item>
-<item historyLabel="IOTest3_Shell.java" index="2">
-<position info="not_deleted" x="1174" y="10"/>
-</item>
-<item historyLabel="IOTest3_Shell.java" index="2">
-<position info="not_deleted" x="735" y="0"/>
-</item>
-<item historyLabel="license.txt" index="19">
-<position/>
-</item>
-<item active="true" historyLabel="IOTest3_Shell.java" index="2">
-<position info="not_deleted" x="735" y="0"/>
+<item active="true" historyLabel="IOTest3_Shell.java" index="0">
+<position info="not_deleted" x="2206" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -672,6 +660,9 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -683,6 +674,18 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IoTest.java" tooltip="1基础的IO流编程技术/src/IoTest.java">
+<persistable path="/1基础的IO流编程技术/src/IoTest.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="EventTable.class" tooltip="org.eclipse.swt.widgets.EventTable">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=1基础的IO流编程技术/E:\/gitfile\/javanettextbook\/javanettextbook\/0实验课\/01实验一\/org.eclipse.swt.win32.win32.x86_3.102.0.v20130605-1544.jar&lt;org.eclipse.swt.widgets(EventTable.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="TypedListener.class" tooltip="org.eclipse.swt.widgets.TypedListener">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=1基础的IO流编程技术/E:\/gitfile\/javanettextbook\/javanettextbook\/0实验课\/01实验一\/org.eclipse.swt.win32.win32.x86_3.102.0.v20130605-1544.jar&lt;org.eclipse.swt.widgets(TypedListener.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest3_Shell.java" tooltip="1基础的IO流编程技术/src/IOTest3_Shell.java">
+<persistable path="/1基础的IO流编程技术/src/IOTest3_Shell.java"/>
+</file>
 <file factoryID="org.eclipse.jdt.ui.internal.JarEntryEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="license.txt" tooltip="E:\gitfile\javanettextbook\javanettextbook\0实验课\01实验一\org.eclipse.jface.jar.zip\license.txt">
 <persistable element="=1基础的IO流编程技术/E:\/gitfile\/javanettextbook\/javanettextbook\/0实验课\/01实验一\/org.eclipse.jface.jar.zip" path="license.txt"/>
 </file>
@@ -691,9 +694,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest5.java" tooltip="1基础的IO流编程技术/src/IOTest5.java">
 <persistable path="/1基础的IO流编程技术/src/IOTest5.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest3_Shell.java" tooltip="1基础的IO流编程技术/src/IOTest3_Shell.java">
-<persistable path="/1基础的IO流编程技术/src/IOTest3_Shell.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="1基础的IO流编程技术/src/Test.java">
 <persistable path="/1基础的IO流编程技术/src/Test.java"/>

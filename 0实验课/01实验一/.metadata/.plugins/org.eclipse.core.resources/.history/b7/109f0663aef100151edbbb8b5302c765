@@ -66,7 +66,6 @@ public class IOTest3_Shell {
 							while(bufferedReader.readLine()!=null){
 								String lineString=bufferedReader.readLine();
 								text.setText(lineString+'\n');
-								System.out.println(lineString);//test
 							}
 						} catch (FileNotFoundException e1) {
 							e1.printStackTrace();
@@ -80,7 +79,7 @@ public class IOTest3_Shell {
 
 				}
 			});
-			getButton.setBounds(10, 100, 130, 130);
+			getButton.setBounds(10, 210, 130, 130);
 			getButton.setText("请选择要打开的文件");
 		}
 
@@ -126,13 +125,13 @@ public class IOTest3_Shell {
 					
 				}
 			});
-			setButton.setBounds(150, 100, 130, 130);
+			setButton.setBounds(150, 210, 130, 130);
 			setButton.setText("请选择要保存的路径");
 		}
 		////////////////////////////////////////////////////////////////////////
 		{
 			text=new Text(shell,SWT.BORDER);
-			text.setBounds(10, 40, 270, 40);
+			text.setBounds(10, 10, 270, 40);
 		}
 	}
 	
