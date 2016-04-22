@@ -1,0 +1,57 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 32756 bytes for ChunkPool::allocate
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (allocation.cpp:211), pid=8256, tid=8560
+#
+# JRE version: Java(TM) SE Runtime Environment (7.0_45-b18) (build 1.7.0_45-b18)
+# Java VM: Java HotSpot(TM) Client VM (24.45-b08 mixed mode, sharing windows-x86 )
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x02ad4800):  JavaThread "C1 CompilerThread0" daemon [_thread_in_native, id=8560, stack(0x02e40000,0x02e90000)]
+
+Stack: [0x02e40000,0x02e90000],  sp=0x02e8f514,  free space=317k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x18df51]
+V  [jvm.dll+0x187e55]
+V  [jvm.dll+0x76f14]
+V  [jvm.dll+0x770fc]
+V  [jvm.dll+0x7744a]
+V  [jvm.dll+0x27df69]
+V  [jvm.dll+0x1cfab3]
+V  [jvm.dll+0x25f09e]
+V  [jvm.dll+0x2823ba]
+V  [jvm.dll+0x270cc6]
+V  [jvm.dll+0x261b2f]
+V  [jvm.dll+0x261cce]
+V  [jvm.dll+0x261daa]
+V  [jvm.dll+0x261f0c]
+V  [jvm.dll+0x2621a6]
+V  [jvm.dll+0x5ed19]
+V  [jvm.dll+0x5f31d]
+V  [jvm.dll+0x16042c]
+V  [jvm.dll+0x160e67]
+V  [jvm.dll+0x1a49f9]
+C  [msvcr100.dll+0x5c556]
+C  [msvcr100.dll+0x5c600]
+C  [kernel32.dll+0xb729]
+
+
+Current CompileTask:
+C1:  26215   75   !        

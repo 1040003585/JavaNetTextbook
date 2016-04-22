@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 1 element(s) from project &apos;1基础的IO流编程技术&apos;&#x0D;&#x0A;- Original project: &apos;1基础的IO流编程技术&apos;&#x0D;&#x0A;- Original element: &apos;MyIOtest.ApiTest.java&apos;" description="Delete element" element1="/src&lt;MyIOtest{ApiTest.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1461307930593" subPackages="false" version="1.0"/>
+</session>
