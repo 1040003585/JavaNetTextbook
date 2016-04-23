@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;签到主程序&apos; to &apos;签到主程序GBK&apos;&#x0D;&#x0A;- Original project: &apos;签到程序&apos;&#x0D;&#x0A;- Original element: &apos;签到程序/src/签到主程序&apos;&#x0D;&#x0A;- Renamed element: &apos;签到程序/src/签到主程序GBK&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;签到主程序&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;签到主程序" name="签到主程序GBK" qualified="false" references="true" stamp="1461227067031" textual="false" version="1.0"/>
-</session>
