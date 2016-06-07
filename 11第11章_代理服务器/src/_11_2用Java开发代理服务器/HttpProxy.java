@@ -14,6 +14,7 @@ import java.net.Socket;
  * @author : Wu_Being <1040003585@qq.com>
  * Date/Time: 2016-6-6/上午10:29:01
  * Description: 一个基础的代理服务器类
+ * 
  * 一个代理服务器的基本设计： 
  * （1）等待来自客户（Web浏览器）的请求 
  * （2）启动一个新的线程，已处理客户连接请求
@@ -245,7 +246,7 @@ public class HttpProxy extends Thread{
 			ssock=new ServerSocket(port);
 			while(true){
 				Class[] sarg=new Class[1];
-				Object[] arg=new Class[1];
+				Object[]arg=new Object[1];
 				sarg[0]=Socket.class;
 				try {
 					java.lang.reflect.Constructor cons=clobj.getDeclaredConstructor(sarg);
@@ -257,12 +258,13 @@ public class HttpProxy extends Thread{
 						esock.close();
 					} catch (Exception e2) {
 					}
-				}	
-				
+				}					
 			}
 		} catch (Exception e) {
 		}
     }
+    
+    
 	/**
 	 * 测试用的简单main方法
 	 * @param args
