@@ -21,7 +21,7 @@ public class URLDome4readLine_wu {
 		// TODO Auto-generated method stub
 		System.out.println("starting...");
 		try {
-			URL url=new URL("https://www.baidu.com");
+			URL url=new URL("http://www.baidu.com");
 			InputStream is=url.openStream();
 			int i;
 			String string="";
