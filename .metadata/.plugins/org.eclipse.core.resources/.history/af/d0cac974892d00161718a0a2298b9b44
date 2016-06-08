@@ -1,0 +1,14 @@
+package _4_3Socket编程示例._4_4_3CS环境下的套接字应用程序;
+
+
+public class Launch {
+	public static void main(String[] args) {
+		Son son = new Son("son");
+		//son.start();//.startup();
+		son.startup();
+		
+//		Mother mother = new Mother("mother");
+//		mother.start();
+		//son.start();
+	}
+}

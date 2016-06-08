@@ -1,0 +1,15 @@
+package _4_3Socket编程示例._4_4_3CS环境下的套接字应用程序;
+
+public class Mother extends Thread {
+	String name;
+
+	public Mother(String name) {
+		this.name = name;
+		System.out.println("M"+name);
+	}
+
+	@Override
+	public void run() {
+		System.out.println("M1"+name);
+	}
+}
