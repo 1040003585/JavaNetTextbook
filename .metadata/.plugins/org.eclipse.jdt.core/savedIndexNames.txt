@@ -3,7 +3,6 @@ INDEX VERSION 1.125+E:\gitfile\javanettextbook\javanettextbook\.metadata\.plugin
 1477864592.index
 1837067418.index
 1423174622.index
-1414496692.index
 3536270.index
 807962773.index
 977264670.index
