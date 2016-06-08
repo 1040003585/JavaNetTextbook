@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;_1_getHostAddress.java&apos; to &apos;2.2 根据域名查找IP地址/src/FindIpByDomain&apos;&#x0A;- Original project: &apos;2.2 根据域名查找IP地址&apos;&#x0A;- Destination element: &apos;2.2 根据域名查找IP地址/src/FindIpByDomain&apos;&#x0A;- Original element: &apos;_1_getHostAddress.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;FindIpByDomain" element1="/src&lt;{_1_getHostAddress.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1457233634598" units="1" version="1.0"/>
+</session>

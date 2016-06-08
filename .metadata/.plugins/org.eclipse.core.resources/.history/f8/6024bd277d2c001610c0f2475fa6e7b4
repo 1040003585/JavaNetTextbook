@@ -1,0 +1,13 @@
+package _4_3Socket编程示例._4_4_1一对多的通信;
+
+public class Server {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

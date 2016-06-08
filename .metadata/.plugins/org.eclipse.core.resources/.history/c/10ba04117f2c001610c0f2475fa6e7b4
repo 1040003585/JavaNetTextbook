@@ -1,0 +1,29 @@
+package _4_3Socket编程示例._4_4_1一对多的通信;
+import java.io.IOException;
+import java.net.Socket;
+import java.net.UnknownHostException;
+/**
+ * 
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: Client.java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-7/下午02:07:58
+ * Description:
+ */
+public class Client {
+	
+	public static void main(String[] args) {
+		
+		try {
+			Socket socket = new Socket("localhost",5500);
+			
+			
+		} catch (UnknownHostException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+}

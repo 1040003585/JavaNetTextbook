@@ -1,0 +1,35 @@
+package _4_3Socket编程示例._4_4_1一对多的通信;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.net.Socket;
+import java.net.UnknownHostException;
+/**
+ * _4_3Socket编程示例._4_4_1一对多的通信
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: Client.java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-7/下午02:07:58
+ * Description:
+ */
+public class Client {
+	
+	public static void main(String[] args) {
+		
+		try {
+			//创建连接到服务器的socket，服务器IP和端口如下
+			Socket socket = new Socket("localhost",9955);
+			//将数据输入输出流连接到socket上
+			DataInputStream dis = new DataInputStream(socket.getInputStream());
+			DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
+			
+			
+		} catch (UnknownHostException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+}
