@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/5第5章_数据报套接字/src/test课堂作业/UDP_receive.java"/>
+<listEntry value="/5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_receive.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test课堂作业.UDP_receive"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="testKetangxuoye_UTF8.UDP_receive"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="5第5章_数据报套接字"/>
 </launchConfiguration>

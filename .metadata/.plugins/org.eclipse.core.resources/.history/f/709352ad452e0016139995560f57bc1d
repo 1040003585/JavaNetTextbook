@@ -1,0 +1,29 @@
+package _5_2DatagramSocket编程示例;
+
+import java.net.DatagramPacket;
+
+public class UDPScan {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		byte[] buffer = new byte[8912];
+		DatagramPacket datap = new DatagramPacket(buffer, buffer.length);
+		fun1(buffer);
+		System.out.println(buffer);
+		fun2(buffer);
+		System.out.println(buffer);
+	}
+	
+	
+	static void fun1(byte[]a){
+		a[0]=3;
+	}
+	
+	static void fun2(byte a[]){
+		a[0]='a';
+	}
+}

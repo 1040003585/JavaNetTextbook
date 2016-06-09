@@ -1,0 +1,13 @@
+package _5_2DatagramSocket±à³ÌÊ¾Àý;
+
+public class UDPScan {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
