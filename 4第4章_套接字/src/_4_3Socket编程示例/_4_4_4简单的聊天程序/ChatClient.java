@@ -10,6 +10,9 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -24,7 +27,7 @@ import javax.swing.JTextField;
  *
  * FileName: .java
  * @author : Wu_Being <1040003585@qq.com>
- * Date/Time: 2016-6-8/下午08:51:56
+ * Date/Time: 2016-6-9/下午12:20:18
  * Description:
  */
 public class ChatClient implements ActionListener, Runnable {
@@ -45,7 +48,7 @@ public class ChatClient implements ActionListener, Runnable {
 
 	public ChatClient() {
 		// 设置界面，包含容器
-		mainJFrame = new JFrame("聊天————客户端");
+		mainJFrame = new JFrame("聊天——客户端（吴兵）");
 		container = mainJFrame.getContentPane();
 		// 聊天信息展示框
 		showTextArea = new JTextArea();
@@ -74,18 +77,20 @@ public class ChatClient implements ActionListener, Runnable {
 
 		try {
 			// 创建套接字连接到服务器
-			connectToClientSocket = new Socket("localhost",9955);/**/
-			inFromClient = new DataInputStream(connectToClientSocket.getInputStream());
-			outToClient = new DataOutputStream(connectToClientSocket.getOutputStream());
-			showTextArea.append("连接成功，请说话...\n");
-			
+			connectToClientSocket = new Socket("localhost", 9955);/**/
+			inFromClient = new DataInputStream(connectToClientSocket
+					.getInputStream());
+			outToClient = new DataOutputStream(connectToClientSocket
+					.getOutputStream());
+			showTextArea.append("连接成功，请说话..." + getTime() + "\n");
+
 			// 创建线程在后台来接收对方的消息
 			thread = new Thread(this);
 			thread.setPriority(Thread.MAX_PRIORITY);
 			thread.start();
 
 		} catch (IOException e) {
-			showTextArea.append("对不起，没能连接到服务器");
+			showTextArea.append("对不起，没能连接到服务器" + getTime() + "");
 			msgTextField.setEditable(false); // 不可编辑
 			msgTextField.setEnabled(false); // 不可见
 		}
@@ -109,10 +114,11 @@ public class ChatClient implements ActionListener, Runnable {
 			try {
 				outToClient.writeUTF(string);
 				outToClient.flush();
-				showTextArea.append("我说（" + string + "）\n");
+				showTextArea.append("吴兵说（" + string + "）" + getTime() + "\n");
 				msgTextField.setText(null);
 			} catch (IOException e1) {
-				showTextArea.append("你的消息（" + string + "）未能发送出去\n");
+				showTextArea.append("你的消息（" + string + "）未能发送出去" + getTime()
+						+ "\n");
 			}
 		}
 	}
@@ -121,7 +127,8 @@ public class ChatClient implements ActionListener, Runnable {
 	public void run() {
 		try {
 			while (true) {
-				showTextArea.append("对方说（" + inFromClient.readUTF() + "）\n");
+				showTextArea.append("黑猫顺说（" + inFromClient.readUTF() + "）"
+						+ getTime() + "\n");
 				Thread.sleep(1000);
 			}
 		} catch (IOException e) {
@@ -130,4 +137,15 @@ public class ChatClient implements ActionListener, Runnable {
 		}
 	}
 
+	/**
+	 * Java代码中获得当前时间
+	 * 
+	 * @return 当前时期时间
+	 */
+	private String getTime() {
+		Date date = new Date();
+		DateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		String time = format.format(date);
+		return time;
+	}
 }

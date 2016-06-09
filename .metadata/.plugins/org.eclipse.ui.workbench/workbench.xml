@@ -21,7 +21,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="183" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
@@ -69,6 +69,12 @@
 <part id="33"/>
 <part id="34"/>
 <part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
 </presentation>
 </folder>
 </info>
@@ -199,23 +205,47 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerThread.java" partName="ServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java" title="ServerThread.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java"/>
-<editorState selectionLength="3029" selectionOffset="0"/>
+<editorState selectionLength="0" selectionOffset="2018"/>
 </editor>
-<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiServer.java" partName="MultiServer.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java" title="MultiServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiServer.java" partName="MultiServer.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java" title="MultiServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java"/>
-<editorState selectionLength="0" selectionOffset="0"/>
+<editorState selectionLength="0" selectionOffset="612"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" partName="Client.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java" title="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java"/>
-<editorState selectionLength="0" selectionOffset="399"/>
+<editorState selectionLength="0" selectionOffset="1698"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Server.java" partName="Server.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java" title="Server.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java"/>
-<editorState selectionLength="0" selectionOffset="324"/>
+<editorState selectionLength="0" selectionOffset="943"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" partName="Client.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java" title="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java"/>
-<editorState selectionLength="0" selectionOffset="397"/>
+<editorState selectionLength="0" selectionOffset="1061"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatServer.java" partName="ChatServer.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java" title="ChatServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java"/>
+<editorState selectionLength="4381" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" partName="ChatClient.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" title="ChatClient.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
+<editorState selectionLength="3888" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KKMultiServerThread.java" partName="KKMultiServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KKMultiServerThread.java" title="KKMultiServerThread.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KKMultiServerThread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KKMultiServerThread.java"/>
+<editorState selectionLength="0" selectionOffset="141"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Launch.java" partName="Launch.java" path="E:/gitfile/javanettextbook/javanettextbook/6第6章_多线程/src/_6_001多线程问题/Launch.java" title="Launch.java" tooltip="6第6章_多线程/src/_6_001多线程问题/Launch.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/6第6章_多线程/src/_6_001多线程问题/Launch.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mother.java" partName="Mother.java" path="E:/gitfile/javanettextbook/javanettextbook/6第6章_多线程/src/_6_001多线程问题/Mother.java" title="Mother.java" tooltip="6第6章_多线程/src/_6_001多线程问题/Mother.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/6第6章_多线程/src/_6_001多线程问题/Mother.java"/>
+<editorState selectionLength="0" selectionOffset="230"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Son.java" partName="Son.java" path="E:/gitfile/javanettextbook/javanettextbook/6第6章_多线程/src/_6_001多线程问题/Son.java" title="Son.java" tooltip="6第6章_多线程/src/_6_001多线程问题/Son.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/6第6章_多线程/src/_6_001多线程问题/Son.java"/>
+<editorState selectionLength="0" selectionOffset="304"/>
 </editor>
 </editors>
 <views>
@@ -231,8 +261,7 @@
 <view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
+<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -292,7 +321,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -484,7 +513,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.24501845" ratioLeft="332" ratioRight="1023" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.6916933" ratioLeft="433" ratioRight="193" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.6996805" ratioLeft="438" ratioRight="188" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -526,166 +555,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对多的通信/Server.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对一的通信/Client.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对一的通信/ServerThread.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对一的通信/MultiServer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对多的通信/Client.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
 </editors>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="784" y="0"/>
+<item historyLabel="ServerThread.java" index="1">
+<position info="not_deleted" x="2018" y="0"/>
 </item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="2028" y="0"/>
+<item historyLabel="MultiServer.java" index="2">
+<position info="not_deleted" x="612" y="0"/>
 </item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="710" y="0"/>
+<item historyLabel="Client.java" index="0">
+<position info="not_deleted" x="1815" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="720" y="0"/>
+<item historyLabel="MultiServer.java" index="2">
+<position info="not_deleted" x="612" y="0"/>
 </item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="710" y="0"/>
+<item historyLabel="Client.java" index="0">
+<position info="not_deleted" x="1815" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="720" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="0" y="4381"/>
 </item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="2028" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="2937" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="720" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="70" y="0"/>
 </item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="710" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3425" y="4"/>
 </item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="2685" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1861" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="720" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3425" y="117"/>
 </item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="710" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="4035" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="442" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3425" y="117"/>
 </item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="1669" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="4035" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="442" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="710" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="442" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="710" y="0"/>
-</item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="1669" y="0"/>
-</item>
-<item historyLabel="Server.java" index="0">
-<position info="not_deleted" x="1186" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="1543" y="38"/>
-</item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="2334" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="442" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="1543" y="38"/>
-</item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="2334" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="670" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="1543" y="38"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="1539" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="670" y="0"/>
-</item>
-<item historyLabel="ServerThread.java" index="2">
-<position info="not_deleted" x="22" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="1539" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="811" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="784" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="670" y="0"/>
-</item>
-<item historyLabel="Client.java" index="1">
-<position info="not_deleted" x="556" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="3">
-<position info="not_deleted" x="670" y="0"/>
-</item>
-<item historyLabel="ServerThread.java" index="4">
-<position info="not_deleted" x="22" y="0"/>
-</item>
-<item historyLabel="MultiServer.java" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="Client.java" index="6">
-<position info="not_deleted" x="556" y="0"/>
-</item>
-<item historyLabel="Server.java" index="7">
-<position info="not_deleted" x="1186" y="0"/>
-</item>
-<item historyLabel="Client.java" index="8">
+<item historyLabel="ChatClient.java" index="4">
 <position/>
 </item>
-<item historyLabel="Server.java" index="7">
-<position info="not_deleted" x="324" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1296" y="0"/>
 </item>
-<item historyLabel="Client.java" index="6">
-<position info="not_deleted" x="399" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="2664" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="5">
-<position info="not_deleted" x="226" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position/>
 </item>
-<item historyLabel="ServerThread.java" index="4">
-<position info="not_deleted" x="0" y="3029"/>
+<item historyLabel="Client.java" index="0">
+<position info="not_deleted" x="1698" y="0"/>
 </item>
-<item historyLabel="MultiServer.java" index="5">
-<position info="not_deleted" x="226" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1197" y="0"/>
 </item>
-<item historyLabel="Server.java" index="0">
-<position info="not_deleted" x="324" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="1326" y="0"/>
 </item>
-<item historyLabel="Client.java" index="9">
-<position info="not_deleted" x="397" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position/>
 </item>
-<item historyLabel="Server.java" index="7">
-<position info="not_deleted" x="324" y="0"/>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="2141" y="0"/>
 </item>
-<item active="true" historyLabel="Client.java" index="8">
-<position info="not_deleted" x="397" y="0"/>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="2152" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1295" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3718" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="2661" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1295" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3647" y="236"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1295" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3647" y="236"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="Client.java" index="0">
+<position info="not_deleted" x="1698" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="MultiServer.java" index="2">
+<position info="not_deleted" x="612" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="1279" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1281" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="1279" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="3946" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="3453" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="3784" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="1272" y="0"/>
+</item>
+<item historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1272" y="0"/>
+</item>
+<item historyLabel="ChatClient.java" index="4">
+<position info="not_deleted" x="0" y="3888"/>
+</item>
+<item active="true" historyLabel="ChatServer.java" index="3">
+<position info="not_deleted" x="1272" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -693,14 +717,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-<trimItem IMemento.internal.id="right"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@507c04"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -708,11 +724,25 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Son.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Son.java">
+<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Son.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mother.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Mother.java">
+<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Mother.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Thread.class" tooltip="java.lang.Thread">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang(Thread.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java">
+<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java">
+<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java">
 <persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java"/>
 </file>
@@ -730,33 +760,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对多的通信/Client.java">
 <persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对多的通信/Client.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="TwoStacksPlainSocketImpl.class" tooltip="java.net.TwoStacksPlainSocketImpl">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=00实验课/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(TwoStacksPlainSocketImpl.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URLDome3readLine2.java" tooltip="3.5 URLConnection类的应用/src/URLDome3readLine2.java">
-<persistable path="/3.5 URLConnection类的应用/src/URLDome3readLine2.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Socket.class" tooltip="java.net.Socket">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(Socket.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DownFile.java" tooltip="3.5 URLConnection类的应用/src/DownFile.java">
-<persistable path="/3.5 URLConnection类的应用/src/DownFile.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_3_2MyBrowser2.java" tooltip="3.3 URL类的应用/src/_3_2MyBrowser2.java">
-<persistable path="/3.3 URL类的应用/src/_3_2MyBrowser2.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="String.class" tooltip="java.lang.String">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=11第11章_代理服务器/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang(String.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="OutputStream.class" tooltip="java.io.OutputStream">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=11第11章_代理服务器/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.io(OutputStream.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxy.java" tooltip="11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java">
-<persistable path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="one-liners.txt" tooltip="00实验课/src/_07实验七组播编程/one-liners.txt">
-<persistable path="/00实验课/src/_07实验七组播编程/one-liners.txt"/>
 </file>
 </mruList>
 </workbench>
