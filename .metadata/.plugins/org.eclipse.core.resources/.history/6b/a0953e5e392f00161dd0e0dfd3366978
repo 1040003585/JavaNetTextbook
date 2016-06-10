@@ -25,11 +25,9 @@ public class UDPReceiver {
 		try {
 			DatagramSocket receiveSocket =new DatagramSocket(5000);
 			byte buf[]=new byte[1000];
-			//创建要接收数据的DatagramPacket对象
 			DatagramPacket receivepPacket=new DatagramPacket(buf,buf.length);
 			System.out.println("starting to receive packet...");
 			while(true){
-				//接收数据
 				receiveSocket.receive(receivepPacket);
 				String receiveData=new String(receivepPacket.getData(),0,receivepPacket.getLength());
 				String name=receivepPacket.getAddress().getHostAddress();

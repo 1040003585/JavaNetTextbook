@@ -29,7 +29,6 @@ public class UDPScan {
 				System.out.println("there is a server in port:" + port + ".");
 			}
 
-			
 		}
 
 	}
