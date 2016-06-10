@@ -1,0 +1,24 @@
+package _5_2DatagramSocket±à³ÌÊ¾Àý;
+
+import java.net.DatagramSocket;
+import java.net.SocketException;
+
+public class ZeroPort {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		DatagramSocket datagramSocket;
+		try {
+			datagramSocket = new DatagramSocket();
+			System.out.println(datagramSocket.getPort());
+			
+		} catch (SocketException e) {
+			System.out.println("err");
+		}
+	}
+
+}

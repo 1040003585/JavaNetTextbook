@@ -21,8 +21,8 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="183" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -60,238 +60,131 @@
 <part id="24"/>
 <part id="25"/>
 <part id="26"/>
-<part id="27"/>
-<part id="28"/>
-<part id="29"/>
-<part id="30"/>
-<part id="31"/>
-<part id="32"/>
-<part id="33"/>
-<part id="34"/>
-<part id="35"/>
-<part id="36"/>
-<part id="37"/>
-<part id="38"/>
-<part id="39"/>
-<part id="40"/>
-<part id="41"/>
-<part id="42"/>
-<part id="43"/>
-<part id="44"/>
-<part id="45"/>
-<part id="46"/>
-<part id="47"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URL.java" partName="URL.java" path="E:/gitfile/javanettextbook/javanettextbook/3.2 URL类/src/URL.java" title="URL.java" tooltip="3.2 URL类/src/URL.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.2 URL类/src/URL.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="multicast.java" partName="multicast.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject2/MulticastClient/test/multicast.java" title="multicast.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject2/MulticastClient/test/multicast.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/MulticastClient/test/multicast.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_3_1Myurl.java" partName="_3_1Myurl.java" path="E:/gitfile/javanettextbook/javanettextbook/3.3 URL类的应用/src/_3_1Myurl.java" title="_3_1Myurl.java" tooltip="3.3 URL类的应用/src/_3_1Myurl.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.3 URL类的应用/src/_3_1Myurl.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPClientTest.java" partName="UDPClientTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五_基于UDP编程实验/UDPClientTest.java" title="UDPClientTest.java" tooltip="00实验课/src/_05实验五_基于UDP编程实验/UDPClientTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五_基于UDP编程实验/UDPClientTest.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_3_2MyBrowser.java" partName="_3_2MyBrowser.java" path="E:/gitfile/javanettextbook/javanettextbook/3.3 URL类的应用/src/_3_2MyBrowser.java" title="_3_2MyBrowser.java" tooltip="3.3 URL类的应用/src/_3_2MyBrowser.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.3 URL类的应用/src/_3_2MyBrowser.java"/>
-<editorState selectionLength="0" selectionOffset="7"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_1_getHostAddress.java" partName="_1_getHostAddress.java" path="E:/gitfile/javanettextbook/javanettextbook/2.2 根据域名查找IP地址/src/FindIpByDomain/_1_getHostAddress.java" title="_1_getHostAddress.java" tooltip="2.2 根据域名查找IP地址/src/FindIpByDomain/_1_getHostAddress.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/2.2 根据域名查找IP地址/src/FindIpByDomain/_1_getHostAddress.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPServerTest.java" partName="UDPServerTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五_基于UDP编程实验/UDPServerTest.java" title="UDPServerTest.java" tooltip="00实验课/src/_05实验五_基于UDP编程实验/UDPServerTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五_基于UDP编程实验/UDPServerTest.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_5_2_1Apache接口基础.java" partName="_5_2_1Apache接口基础.java" path="E:/gitfile/javanettextbook/javanettextbook/Android智能穿戴设备开发指南java/src/_5_2使用Apache接口/_5_2_1Apache接口基础.java" title="_5_2_1Apache接口基础.java" tooltip="Android智能穿戴设备开发指南java/src/_5_2使用Apache接口/_5_2_1Apache接口基础.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Android智能穿戴设备开发指南java/src/_5_2使用Apache接口/_5_2_1Apache接口基础.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketClient_SignIn.java" partName="SocketClient_SignIn.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_04实验四_面向SOCKET编程/SocketClient_SignIn.java" title="SocketClient_SignIn.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/SocketClient_SignIn.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_04实验四_面向SOCKET编程/SocketClient_SignIn.java"/>
+<editorState selectionLength="30" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketServer.java" partName="SocketServer.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_04实验四_面向SOCKET编程/SocketServer.java" title="SocketServer.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/SocketServer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_04实验四_面向SOCKET编程/SocketServer.java"/>
+<editorState selectionLength="30" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_04实验四_面向SOCKET编程/Test.java" title="Test.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_04实验四_面向SOCKET编程/Test.java"/>
+<editorState selectionLength="30" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketClient.java" partName="SocketClient.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_04实验四_面向SOCKET编程/SocketClient.java" title="SocketClient.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/SocketClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_04实验四_面向SOCKET编程/SocketClient.java"/>
+<editorState selectionLength="30" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDP_receive.java" partName="UDP_receive.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五_基于UDP编程实验/testKetangxuoye/UDP_receive.java" title="UDP_receive.java" tooltip="00实验课/src/_05实验五_基于UDP编程实验/testKetangxuoye/UDP_receive.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五_基于UDP编程实验/testKetangxuoye/UDP_receive.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_1_getLocalHost.java" partName="_1_getLocalHost.java" path="E:/gitfile/javanettextbook/javanettextbook/2.1 创建InetAddreess对象/src/CreateInetAddressObject/_1_getLocalHost.java" title="_1_getLocalHost.java" tooltip="2.1 创建InetAddreess对象/src/CreateInetAddressObject/_1_getLocalHost.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/2.1 创建InetAddreess对象/src/CreateInetAddressObject/_1_getLocalHost.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDP_sent.java" partName="UDP_sent.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五_基于UDP编程实验/testKetangxuoye/UDP_sent.java" title="UDP_sent.java" tooltip="00实验课/src/_05实验五_基于UDP编程实验/testKetangxuoye/UDP_sent.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五_基于UDP编程实验/testKetangxuoye/UDP_sent.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_4_getByAddress.java" partName="_4_getByAddress.java" path="E:/gitfile/javanettextbook/javanettextbook/2.1 创建InetAddreess对象/src/CreateInetAddressObject/_4_getByAddress.java" title="_4_getByAddress.java" tooltip="2.1 创建InetAddreess对象/src/CreateInetAddressObject/_4_getByAddress.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/2.1 创建InetAddreess对象/src/CreateInetAddressObject/_4_getByAddress.java"/>
-<editorState selectionLength="0" selectionOffset="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_1_getLocalHost.java" partName="_1_getLocalHost.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_1getLocalHost方法/_1_getLocalHost.java" title="_1_getLocalHost.java" tooltip="02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_1getLocalHost方法/_1_getLocalHost.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_1getLocalHost方法/_1_getLocalHost.java"/>
+<editorState selectionLength="0" selectionOffset="6"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_3_getAllByName.java" partName="_3_getAllByName.java" path="E:/gitfile/javanettextbook/javanettextbook/2.1 创建InetAddreess对象/src/CreateInetAddressObject/_3_getAllByName.java" title="_3_getAllByName.java" tooltip="2.1 创建InetAddreess对象/src/CreateInetAddressObject/_3_getAllByName.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/2.1 创建InetAddreess对象/src/CreateInetAddressObject/_3_getAllByName.java"/>
-<editorState selectionLength="0" selectionOffset="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDP_receive.java" partName="UDP_receive.java" path="E:/gitfile/javanettextbook/javanettextbook/5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_receive.java" title="UDP_receive.java" tooltip="5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_receive.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_receive.java"/>
-<editorState selectionLength="0" selectionOffset="1"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDP_sent.java" partName="UDP_sent.java" path="E:/gitfile/javanettextbook/javanettextbook/5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_sent.java" title="UDP_sent.java" tooltip="5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_sent.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/5第5章_数据报套接字/src/testKetangxuoye_UTF8/UDP_sent.java"/>
-<editorState selectionLength="0" selectionOffset="1163"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPServerTest.java" partName="UDPServerTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五基于UDP编程实验/UDPServerTest.java" title="UDPServerTest.java" tooltip="00实验课/src/_05实验五基于UDP编程实验/UDPServerTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五基于UDP编程实验/UDPServerTest.java"/>
-<editorState selectionLength="0" selectionOffset="212"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPClientTest.java" partName="UDPClientTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五基于UDP编程实验/UDPClientTest.java" title="UDPClientTest.java" tooltip="00实验课/src/_05实验五基于UDP编程实验/UDPClientTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五基于UDP编程实验/UDPClientTest.java"/>
-<editorState selectionLength="0" selectionOffset="745"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPClientTest.java" partName="UDPClientTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五基于UDP编程实验testTeacher/UDPClientTest.java" title="UDPClientTest.java" tooltip="00实验课/src/_05实验五基于UDP编程实验testTeacher/UDPClientTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五基于UDP编程实验testTeacher/UDPClientTest.java"/>
-<editorState selectionLength="0" selectionOffset="21"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPClientTest.java" partName="UDPClientTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/UDPClientTest.java" title="UDPClientTest.java" tooltip="00实验课/src/UDPClientTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/UDPClientTest.java"/>
-<editorState selectionLength="0" selectionOffset="537"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerTest.java" partName="ServerTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七组播编程/ServerTest.java" title="ServerTest.java" tooltip="00实验课/src/_07实验七组播编程/ServerTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七组播编程/ServerTest.java"/>
-<editorState selectionLength="36" selectionOffset="120"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerThread.java" partName="ServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七组播编程/ServerThread.java" title="ServerThread.java" tooltip="00实验课/src/_07实验七组播编程/ServerThread.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七组播编程/ServerThread.java"/>
-<editorState selectionLength="7" selectionOffset="1281"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SonServerThreadTest.java" partName="SonServerThreadTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七组播编程/SonServerThreadTest.java" title="SonServerThreadTest.java" tooltip="00实验课/src/_07实验七组播编程/SonServerThreadTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七组播编程/SonServerThreadTest.java"/>
-<editorState selectionLength="0" selectionOffset="819"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClientTest.java" partName="ClientTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七组播编程/ClientTest.java" title="ClientTest.java" tooltip="00实验课/src/_07实验七组播编程/ClientTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七组播编程/ClientTest.java"/>
-<editorState selectionLength="4" selectionOffset="487"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="one-liners.txt" partName="one-liners.txt" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七组播编程/one-liners.txt" title="one-liners.txt" tooltip="00实验课/src/_07实验七组播编程/one-liners.txt" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七组播编程/one-liners.txt"/>
-<editorState selectionLength="0" selectionOffset="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxy.java" partName="HttpProxy.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java" title="HttpProxy.java" tooltip="11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java"/>
-<editorState selectionLength="0" selectionOffset="5609"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="OutputStream.class" partName="OutputStream.class" title="OutputStream.class" tooltip="java.io.OutputStream" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=11第11章_代理服务器/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.io(OutputStream.class"/>
-<editorState selectionLength="0" selectionOffset="3"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="String.class" partName="String.class" title="String.class" tooltip="java.lang.String" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=11第11章_代理服务器/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang(String.class"/>
-<editorState selectionLength="0" selectionOffset="23670"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_3_2MyBrowser2.java" partName="_3_2MyBrowser2.java" path="E:/gitfile/javanettextbook/javanettextbook/3.3 URL类的应用/src/_3_2MyBrowser2.java" title="_3_2MyBrowser2.java" tooltip="3.3 URL类的应用/src/_3_2MyBrowser2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.3 URL类的应用/src/_3_2MyBrowser2.java"/>
-<editorState selectionLength="0" selectionOffset="2392"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URLDome1read.java" partName="URLDome1read.java" path="E:/gitfile/javanettextbook/javanettextbook/3.5 URLConnection类的应用/src/URLDome1read.java" title="URLDome1read.java" tooltip="3.5 URLConnection类的应用/src/URLDome1read.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.5 URLConnection类的应用/src/URLDome1read.java"/>
-<editorState selectionLength="0" selectionOffset="157"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URLDome2read.java" partName="URLDome2read.java" path="E:/gitfile/javanettextbook/javanettextbook/3.5 URLConnection类的应用/src/URLDome2read.java" title="URLDome2read.java" tooltip="3.5 URLConnection类的应用/src/URLDome2read.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.5 URLConnection类的应用/src/URLDome2read.java"/>
-<editorState selectionLength="0" selectionOffset="591"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URLDome3readLine.java" partName="URLDome3readLine.java" path="E:/gitfile/javanettextbook/javanettextbook/3.5 URLConnection类的应用/src/URLDome3readLine.java" title="URLDome3readLine.java" tooltip="3.5 URLConnection类的应用/src/URLDome3readLine.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.5 URLConnection类的应用/src/URLDome3readLine.java"/>
-<editorState selectionLength="0" selectionOffset="763"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URLDome4readLine_wu.java" partName="URLDome4readLine_wu.java" path="E:/gitfile/javanettextbook/javanettextbook/3.5 URLConnection类的应用/src/URLDome4readLine_wu.java" title="URLDome4readLine_wu.java" tooltip="3.5 URLConnection类的应用/src/URLDome4readLine_wu.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.5 URLConnection类的应用/src/URLDome4readLine_wu.java"/>
-<editorState selectionLength="0" selectionOffset="369"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DownFile.java" partName="DownFile.java" path="E:/gitfile/javanettextbook/javanettextbook/3.5 URLConnection类的应用/src/DownFile.java" title="DownFile.java" tooltip="3.5 URLConnection类的应用/src/DownFile.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.5 URLConnection类的应用/src/DownFile.java"/>
-<editorState selectionLength="92" selectionOffset="1386"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="Socket.class" partName="Socket.class" title="Socket.class" tooltip="java.net.Socket" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(Socket.class"/>
-<editorState selectionLength="0" selectionOffset="21142"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URLDome3readLine2.java" partName="URLDome3readLine2.java" path="E:/gitfile/javanettextbook/javanettextbook/3.5 URLConnection类的应用/src/URLDome3readLine2.java" title="URLDome3readLine2.java" tooltip="3.5 URLConnection类的应用/src/URLDome3readLine2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/3.5 URLConnection类的应用/src/URLDome3readLine2.java"/>
-<editorState selectionLength="0" selectionOffset="250"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="TwoStacksPlainSocketImpl.class" partName="TwoStacksPlainSocketImpl.class" title="TwoStacksPlainSocketImpl.class" tooltip="java.net.TwoStacksPlainSocketImpl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=00实验课/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(TwoStacksPlainSocketImpl.class"/>
-<editorState selectionLength="0" selectionOffset="2159"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerThread.java" partName="ServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java" title="ServerThread.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/ServerThread.java"/>
-<editorState selectionLength="0" selectionOffset="2018"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiServer.java" partName="MultiServer.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java" title="MultiServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/MultiServer.java"/>
-<editorState selectionLength="0" selectionOffset="612"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" partName="Client.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java" title="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_2一对多的通信/Client.java"/>
-<editorState selectionLength="0" selectionOffset="1698"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Server.java" partName="Server.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java" title="Server.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_2_getByName.java" partName="_2_getByName.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_2getByName方法/_2_getByName.java" title="_2_getByName.java" tooltip="02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_2getByName方法/_2_getByName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_2getByName方法/_2_getByName.java"/>
 <editorState selectionLength="0" selectionOffset="779"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" partName="Client.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java" title="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java"/>
-<editorState selectionLength="0" selectionOffset="1061"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatServer.java" partName="ChatServer.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java" title="ChatServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java"/>
-<editorState selectionLength="0" selectionOffset="843"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" partName="ChatClient.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" title="ChatClient.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
-<editorState selectionLength="3888" selectionOffset="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KKMultiServerThread.java" partName="KKMultiServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KKMultiServerThread.java" title="KKMultiServerThread.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KKMultiServerThread.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KKMultiServerThread.java"/>
-<editorState selectionLength="0" selectionOffset="141"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Launch.java" partName="Launch.java" path="E:/gitfile/javanettextbook/javanettextbook/6第6章_多线程/src/_6_001多线程问题/Launch.java" title="Launch.java" tooltip="6第6章_多线程/src/_6_001多线程问题/Launch.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/6第6章_多线程/src/_6_001多线程问题/Launch.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="getHostAddress.java" partName="getHostAddress.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/getHostAddress.java" title="getHostAddress.java" tooltip="02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/getHostAddress.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/getHostAddress.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mother.java" partName="Mother.java" path="E:/gitfile/javanettextbook/javanettextbook/6第6章_多线程/src/_6_001多线程问题/Mother.java" title="Mother.java" tooltip="6第6章_多线程/src/_6_001多线程问题/Mother.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/6第6章_多线程/src/_6_001多线程问题/Mother.java"/>
-<editorState selectionLength="0" selectionOffset="230"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="URL.java" partName="URL.java" path="E:/gitfile/javanettextbook/javanettextbook/03第3章_URL通信/src/_3_2URL类/URL.java" title="URL.java" tooltip="03第3章_URL通信/src/_3_2URL类/URL.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/03第3章_URL通信/src/_3_2URL类/URL.java"/>
+<editorState selectionLength="0" selectionOffset="19"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Son.java" partName="Son.java" path="E:/gitfile/javanettextbook/javanettextbook/6第6章_多线程/src/_6_001多线程问题/Son.java" title="Son.java" tooltip="6第6章_多线程/src/_6_001多线程问题/Son.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/6第6章_多线程/src/_6_001多线程问题/Son.java"/>
-<editorState selectionLength="0" selectionOffset="304"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetIP.java" partName="GetIP.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/GetIP.java" title="GetIP.java" tooltip="02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/GetIP.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/GetIP.java"/>
+<editorState selectionLength="50" selectionOffset="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDP_receive.java" partName="UDP_receive.java" path="E:/gitfile/javanettextbook/javanettextbook/5第5章_数据报套接字/src/testKetangxuoye_GBK/UDP_receive.java" title="UDP_receive.java" tooltip="5第5章_数据报套接字/src/testKetangxuoye_GBK/UDP_receive.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/5第5章_数据报套接字/src/testKetangxuoye_GBK/UDP_receive.java"/>
-<editorState selectionLength="0" selectionOffset="1761"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InetAddressDemo.java" partName="InetAddressDemo.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/InetAddressDemo.java" title="InetAddressDemo.java" tooltip="02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/InetAddressDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress方法/InetAddressDemo.java"/>
+<editorState selectionLength="0" selectionOffset="245"/>
 </editor>
-<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPScan.java" partName="UDPScan.java" path="E:/gitfile/javanettextbook/javanettextbook/5第5章_数据报套接字/src/_5_2DatagramSocket编程示例/UDPScan.java" title="UDPScan.java" tooltip="5第5章_数据报套接字/src/_5_2DatagramSocket编程示例/UDPScan.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/5第5章_数据报套接字/src/_5_2DatagramSocket编程示例/UDPScan.java"/>
-<editorState selectionLength="0" selectionOffset="419"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_2_2_2IPVersion.java" partName="_2_2_2IPVersion.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_2getAddress方法/_2_2_2IPVersion.java" title="_2_2_2IPVersion.java" tooltip="02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_2getAddress方法/_2_2_2IPVersion.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_2getAddress方法/_2_2_2IPVersion.java"/>
+<editorState selectionLength="0" selectionOffset="117"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="DatagramPacket.class" partName="DatagramPacket.class" title="DatagramPacket.class" tooltip="java.net.DatagramPacket" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramPacket.class"/>
-<editorState selectionLength="0" selectionOffset="11854"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyIPType.java" partName="MyIPType.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_4Inet4Address类和Inet6Address类/MyIPType.java" title="MyIPType.java" tooltip="02第2章_Internet寻址/src/_2_4Inet4Address类和Inet6Address类/MyIPType.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_4Inet4Address类和Inet6Address类/MyIPType.java"/>
+<editorState selectionLength="0" selectionOffset="380"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ServerSocket.class" partName="ServerSocket.class" title="ServerSocket.class" tooltip="java.net.ServerSocket" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(ServerSocket.class"/>
-<editorState selectionLength="0" selectionOffset="26"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Internet.java" partName="Internet.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_2getHostName方法/Internet.java" title="Internet.java" tooltip="02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_2getHostName方法/Internet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_2getHostName方法/Internet.java"/>
+<editorState selectionLength="0" selectionOffset="268"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AccessController.class" partName="AccessController.class" title="AccessController.class" tooltip="java.security.AccessController" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.security(AccessController.class"/>
-<editorState selectionLength="0" selectionOffset="9499"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetHostName.java" partName="GetHostName.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_2getHostName方法/GetHostName.java" title="GetHostName.java" tooltip="02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_2getHostName方法/GetHostName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_2getHostName方法/GetHostName.java"/>
+<editorState selectionLength="0" selectionOffset="424"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="LoadLibraryAction.class" partName="LoadLibraryAction.class" title="LoadLibraryAction.class" tooltip="sun.security.action.LoadLibraryAction" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.security.action(LoadLibraryAction.class"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetCanonicalHostName.java" partName="GetCanonicalHostName.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_3getCanonicalHostName方法/GetCanonicalHostName.java" title="GetCanonicalHostName.java" tooltip="02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_3getCanonicalHostName方法/GetCanonicalHostName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/_2_3_3getCanonicalHostName方法/GetCanonicalHostName.java"/>
+<editorState selectionLength="0" selectionOffset="588"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPScan.java" partName="UDPScan.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_1利用DatagramSocket查询端口占用情况/UDPScan.java" title="UDPScan.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_1利用DatagramSocket查询端口占用情况/UDPScan.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_1利用DatagramSocket查询端口占用情况/UDPScan.java"/>
+<editorState selectionLength="0" selectionOffset="506"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPReceiver.java" partName="UDPReceiver.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPReceiver.java" title="UDPReceiver.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPReceiver.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPReceiver.java"/>
+<editorState selectionLength="0" selectionOffset="953"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_4_getByAddress.java" partName="_4_getByAddress.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_4getByAddress方法/_4_getByAddress.java" title="_4_getByAddress.java" tooltip="02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_4getByAddress方法/_4_getByAddress.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_2_1_4getByAddress方法/_4_getByAddress.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InetAddress_wu.java" partName="InetAddress_wu.java" path="E:/gitfile/javanettextbook/javanettextbook/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/InetAddress_wu.java" title="InetAddress_wu.java" tooltip="02第2章_Internet寻址/src/_2_1创建InetAddreess对象/InetAddress_wu.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/InetAddress_wu.java"/>
+<editorState selectionLength="0" selectionOffset="485"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPSender.java" partName="UDPSender.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPSender.java" title="UDPSender.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPSender.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPSender.java"/>
+<editorState selectionLength="0" selectionOffset="576"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPChat.java" partName="UDPChat.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_3用UDP实现的聊天程序/UDPChat.java" title="UDPChat.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_3用UDP实现的聊天程序/UDPChat.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_3用UDP实现的聊天程序/UDPChat.java"/>
+<editorState selectionLength="5770" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" partName="ChatClient.java" path="E:/gitfile/javanettextbook/javanettextbook/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" title="ChatClient.java" tooltip="04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
+<editorState selectionLength="237" selectionOffset="3646"/>
 </editor>
 </editors>
 <views>
-<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
-<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
-<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
-<viewState/>
-</view>
 <view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 <view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
 <view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
+<category IMemento.internal.id="Warnings"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
@@ -301,10 +194,6 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
-</view>
-<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
 <viewState group_libraries="1" isWindowWorkingSet="false" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
@@ -338,6 +227,9 @@
 </customFilters>
 </viewState>
 </view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
 <viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
 <org.eclipse.mylyn.tasklist.ui.views.tasklist.sortIndex>
@@ -346,13 +238,19 @@
 </org.eclipse.mylyn.tasklist.ui.views.tasklist.sortIndex>
 </viewState>
 </view>
-<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
-<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
 <viewState/>
 </view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
 </views>
-<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -518,8 +416,13 @@
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.jdt.ui.TypeHierarchy"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
-<fastViewBars/>
+<fastViewBars>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@507c04" orientation="512" selectedTabId="org.eclipse.mylyn.tasks.ui.views.tasks" style="0">
+<fastViews>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="left">
@@ -543,8 +446,8 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.24501845" ratioLeft="332" ratioRight="1023" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.36741215" ratioLeft="230" ratioRight="396" relationship="4" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.2560241" ratioLeft="340" ratioRight="988" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.701278" ratioLeft="439" ratioRight="187" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -561,12 +464,10 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@507c04" ratio="0.75" ratioLeft="567" ratioRight="189" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
-<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@507c04" ratio="0.76687765" ratioLeft="727" ratioRight="221" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="right" ratio="0.49892473" ratioLeft="232" ratioRight="233" relationship="4" relative="org.eclipse.ui.internal.ViewStack@507c04">
@@ -586,166 +487,162 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/5第5章_数据报套接字/src/_5_2DatagramSocket编程示例/UDPScan.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocket.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocketImpl.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocketImplFactory.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Server.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(ServerSocket.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/5第5章_数据报套接字/src/testKetangxuoye_GBK/UDP_receive.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramPacket.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.security(AccessController.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.security.action(LoadLibraryAction.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_3用UDP实现的聊天程序/UDPChat.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=00实验课/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.security(AccessController.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_1利用DatagramSocket查询端口占用情况/UDPScan.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/ZeroPort.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=05第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocket.class"/>
 </editors>
-<item historyLabel="DatagramSocketImplFactory.class" index="3">
-<position info="not_deleted" x="794" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="2972" y="0"/>
 </item>
-<item historyLabel="DatagramSocketImpl.class" index="2">
-<position info="not_deleted" x="2136" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3033" y="0"/>
 </item>
-<item historyLabel="DatagramSocket.class" index="1">
-<position info="not_deleted" x="34" y="0"/>
-</item>
-<item historyLabel="UDPScan.java" index="0">
+<item historyLabel="UDPChat.java" index="0">
 <position/>
 </item>
-<item historyLabel="Server.java" index="4">
-<position info="not_deleted" x="746" y="0"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="23099" y="0"/>
-</item>
-<item historyLabel="DatagramSocket.class" index="1">
-<position info="not_deleted" x="34" y="0"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="23099" y="0"/>
-</item>
-<item historyLabel="Server.java" index="4">
-<position info="not_deleted" x="746" y="0"/>
-</item>
-<item historyLabel="UDP_receive.java" index="6">
-<position info="not_deleted" x="1761" y="0"/>
-</item>
-<item historyLabel="UDPScan.java" index="0">
+<item historyLabel="UDPChat.java" index="0">
 <position/>
 </item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="6532" y="7"/>
-</item>
-<item historyLabel="UDPScan.java" index="0">
-<position info="not_deleted" x="649" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="10540" y="7"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="11184" y="0"/>
-</item>
-<item historyLabel="UDPScan.java" index="0">
-<position info="not_deleted" x="647" y="15"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="23099" y="0"/>
-</item>
-<item historyLabel="UDPScan.java" index="0">
+<item historyLabel="UDPChat.java" index="0">
 <position/>
 </item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="1965" y="0"/>
-</item>
-<item historyLabel="Server.java" index="4">
-<position info="not_deleted" x="779" y="0"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="854" y="0"/>
-</item>
-<item historyLabel="AccessController.class" index="8">
-<position info="not_deleted" x="17769" y="0"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="872" y="0"/>
-</item>
-<item historyLabel="AccessController.class" index="8">
-<position info="not_deleted" x="9329" y="12"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="UDPScan.java" index="0">
+<item historyLabel="UDPChat.java" index="0">
 <position/>
 </item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="853" y="0"/>
-</item>
-<item historyLabel="AccessController.class" index="8">
-<position info="not_deleted" x="8196" y="16"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="855" y="0"/>
-</item>
-<item historyLabel="AccessController.class" index="8">
-<position info="not_deleted" x="8196" y="16"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="869" y="0"/>
-</item>
-<item historyLabel="AccessController.class" index="8">
-<position info="not_deleted" x="9499" y="0"/>
-</item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="932" y="0"/>
-</item>
-<item historyLabel="LoadLibraryAction.class" index="9">
+<item historyLabel="UDPChat.java" index="0">
 <position/>
 </item>
-<item historyLabel="AccessController.class" index="8">
-<position info="not_deleted" x="9499" y="0"/>
-</item>
-<item historyLabel="LoadLibraryAction.class" index="9">
+<item historyLabel="UDPChat.java" index="0">
 <position/>
 </item>
-<item historyLabel="ServerSocket.class" index="5">
-<position info="not_deleted" x="26" y="0"/>
+<item historyLabel="ChatClient.java" index="1">
+<position/>
 </item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="932" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3070" y="0"/>
 </item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="959" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4642" y="0"/>
 </item>
-<item historyLabel="DatagramPacket.class" index="7">
-<position info="not_deleted" x="11854" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position/>
 </item>
-<item historyLabel="UDPScan.java" index="0">
-<position info="not_deleted" x="350" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position/>
 </item>
-<item historyLabel="UDPScan.java" index="0">
-<position info="not_deleted" x="630" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position/>
 </item>
-<item historyLabel="UDPScan.java" index="0">
-<position info="not_deleted" x="629" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position/>
 </item>
-<item active="true" historyLabel="UDPScan.java" index="0">
-<position info="not_deleted" x="419" y="0"/>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3595" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3629" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3675" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3734" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3768" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3805" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4471" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4638" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="5435" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="5438" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="2340" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="2935" y="0"/>
+</item>
+<item historyLabel="AccessController.class" index="2">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3270" y="61"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3368" y="18"/>
+</item>
+<item historyLabel="AccessController.class" index="2">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3200" y="68"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="3270" y="61"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="2046" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4294" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4138" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4178" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="4188" y="0"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="0" y="5770"/>
+</item>
+<item historyLabel="UDPScan.java" index="3">
+<position info="not_deleted" x="506" y="0"/>
+</item>
+<item historyLabel="ZeroPort.java" index="4">
+<position info="not_deleted" x="421" y="59"/>
+</item>
+<item historyLabel="UDPChat.java" index="0">
+<position info="not_deleted" x="0" y="5770"/>
+</item>
+<item historyLabel="UDPScan.java" index="3">
+<position info="not_deleted" x="506" y="0"/>
+</item>
+<item historyLabel="ZeroPort.java" index="4">
+<position info="not_deleted" x="316" y="0"/>
+</item>
+<item historyLabel="DatagramSocket.class" index="5">
+<position info="not_deleted" x="10260" y="0"/>
+</item>
+<item historyLabel="ZeroPort.java" index="4">
+<position info="not_deleted" x="316" y="0"/>
+</item>
+<item historyLabel="DatagramSocket.class" index="5">
+<position info="not_deleted" x="5436" y="14"/>
+</item>
+<item historyLabel="DatagramSocket.class" index="5">
+<position info="not_deleted" x="5565" y="0"/>
+</item>
+<item historyLabel="DatagramSocket.class" index="5">
+<position info="not_deleted" x="12119" y="4"/>
+</item>
+<item active="true" historyLabel="UDPScan.java" index="3">
+<position info="not_deleted" x="506" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -773,50 +670,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="LoadLibraryAction.class" tooltip="sun.security.action.LoadLibraryAction">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.security.action(LoadLibraryAction.class"/>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DatagramSocket.class" tooltip="java.net.DatagramSocket">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=05第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocket.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ZeroPort.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/ZeroPort.java">
+<persistable path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/ZeroPort.java"/>
 </file>
 <file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AccessController.class" tooltip="java.security.AccessController">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.security(AccessController.class"/>
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=00实验课/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.security(AccessController.class"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ServerSocket.class" tooltip="java.net.ServerSocket">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(ServerSocket.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" tooltip="04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java">
+<persistable path="/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DatagramPacket.class" tooltip="java.net.DatagramPacket">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramPacket.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPChat.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_3用UDP实现的聊天程序/UDPChat.java">
+<persistable path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_3用UDP实现的聊天程序/UDPChat.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DatagramSocketImplFactory.class" tooltip="java.net.DatagramSocketImplFactory">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocketImplFactory.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPSender.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPSender.java">
+<persistable path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_2利用数据报通信的CS程序/UDPSender.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DatagramSocketImpl.class" tooltip="java.net.DatagramSocketImpl">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocketImpl.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InetAddress_wu.java" tooltip="02第2章_Internet寻址/src/_2_1创建InetAddreess对象/InetAddress_wu.java">
+<persistable path="/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/InetAddress_wu.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DatagramSocket.class" tooltip="java.net.DatagramSocket">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=5第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocket.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="_4_getByAddress.java" tooltip="02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_4_getByAddress.java">
+<persistable path="/02第2章_Internet寻址/src/_2_1创建InetAddreess对象/_4_getByAddress.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPScan.java" tooltip="5第5章_数据报套接字/src/_5_2DatagramSocket编程示例/UDPScan.java">
-<persistable path="/5第5章_数据报套接字/src/_5_2DatagramSocket编程示例/UDPScan.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPReceiver.java" tooltip="05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_1利用DatagramSocket查询端口占用情况/UDPReceiver.java">
+<persistable path="/05第5章_数据报套接字/src/_5_2DatagramSocket编程示例/_5_2_1利用DatagramSocket查询端口占用情况/UDPReceiver.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDP_receive.java" tooltip="5第5章_数据报套接字/src/testKetangxuoye_GBK/UDP_receive.java">
-<persistable path="/5第5章_数据报套接字/src/testKetangxuoye_GBK/UDP_receive.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetCanonicalHostName.java" tooltip="02第2章_Internet寻址/src/_2_3根据IP地址查找域名/GetCanonicalHostName.java">
+<persistable path="/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/GetCanonicalHostName.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Son.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Son.java">
-<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Son.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetHostName.java" tooltip="02第2章_Internet寻址/src/_2_3根据IP地址查找域名/GetHostName.java">
+<persistable path="/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/GetHostName.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mother.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Mother.java">
-<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/Mother.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Internet.java" tooltip="02第2章_Internet寻址/src/_2_3根据IP地址查找域名/Internet.java">
+<persistable path="/02第2章_Internet寻址/src/_2_3根据IP地址查找域名/Internet.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Thread.class" tooltip="java.lang.Thread">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=4第4章_套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang(Thread.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketClient.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/SocketClient.java">
+<persistable path="/00实验课/src/_04实验四_面向SOCKET编程/SocketClient.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java">
-<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/Test.java">
+<persistable path="/00实验课/src/_04实验四_面向SOCKET编程/Test.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatServer.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java">
-<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Client.java" tooltip="4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java">
-<persistable path="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_1一对一的通信/Client.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketServer.java" tooltip="00实验课/src/_04实验四_面向SOCKET编程/SocketServer.java">
+<persistable path="/00实验课/src/_04实验四_面向SOCKET编程/SocketServer.java"/>
 </file>
 </mruList>
 </workbench>

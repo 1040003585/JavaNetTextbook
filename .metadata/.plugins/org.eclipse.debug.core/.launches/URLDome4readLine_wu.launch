@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/03第3章_URL通信/src/_3_5URLConnection类的应用/URLDome4readLine_wu.java"/>
+<listEntry value="/03第3章_URL通信/src/_3_5URLConnection类的应用/_3_5_1从Web服务器中读取文件的信息/URLDome4readLine_wu.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_3_5URLConnection类的应用.URLDome4readLine_wu"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_3_5URLConnection类的应用._3_5_1从Web服务器中读取文件的信息.URLDome4readLine_wu"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="03第3章_URL通信"/>
 </launchConfiguration>

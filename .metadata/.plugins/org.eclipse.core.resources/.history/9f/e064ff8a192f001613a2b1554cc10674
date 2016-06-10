@@ -1,0 +1,13 @@
+package _5_2DatagramSocket编程示例._5_2_2利用数据报通信的CS程序;
+
+public class UDPSender {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
