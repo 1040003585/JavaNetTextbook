@@ -1,0 +1,8 @@
+package _07实验七_组播编程;
+
+
+public class ServerTest {
+	public static void main(String[] args) throws java.io.IOException {
+		new SonServerThreadTest().start();
+	}
+}

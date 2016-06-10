@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/4第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KnockKnockClient.java"/>
+<listEntry value="/04第4章_套接字/src/_4_3Socket编程示例/_4_4_3CS环境下的套接字应用程序/KnockKnockClient.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_4_3Socket编程示例._4_4_3CS环境下的套接字应用程序.KnockKnockClient"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="4第4章_套接字"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="04第4章_套接字"/>
 </launchConfiguration>

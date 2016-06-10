@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 1 elements(s) to &apos;03第3章_URL通信/src/_3_2URL类&apos;&#x0D;&#x0A;- Original project: &apos;3.2 URL类&apos;&#x0D;&#x0A;- Destination element: &apos;03第3章_URL通信/src/_3_2URL类&apos;&#x0D;&#x0A;- Original element: &apos;URL.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=03第3章_URL通信/src&lt;_3_2URL类" element1="/src&lt;{URL.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1465565276312" units="1" version="1.0"/>
+</session>

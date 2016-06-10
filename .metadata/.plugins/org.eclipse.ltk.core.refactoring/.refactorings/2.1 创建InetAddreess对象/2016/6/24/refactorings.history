@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 1 package(s) to &apos;02第2章_Internet寻址/src&apos;&#x0D;&#x0A;- Original project: &apos;2.1 创建InetAddreess对象&apos;&#x0D;&#x0A;- Destination element: &apos;02第2章_Internet寻址/src&apos;&#x0D;&#x0A;- Original element: &apos;2.1 创建InetAddreess对象/src/CreateInetAddressObject&apos;" description="Move package" destination="=02第2章_Internet寻址/src" element1="/src&lt;CreateInetAddressObject" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1465564965031" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/02第2章_Internet寻址/src/_2_2根据域名查找IP地址/_2_2_1getHostAddress.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_2_2根据域名查找IP地址._2_2_1getHostAddress"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="02第2章_Internet寻址"/>
+</launchConfiguration>

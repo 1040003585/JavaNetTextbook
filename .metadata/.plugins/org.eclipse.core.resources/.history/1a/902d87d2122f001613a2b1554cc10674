@@ -1,0 +1,13 @@
+package _2_3根据IP地址查找域名;
+
+public class GetHostName {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
