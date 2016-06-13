@@ -1,7 +1,7 @@
 INDEX VERSION 1.125+E:\gitfile\javanettextbook\javanettextbook\.metadata\.plugins\org.eclipse.jdt.core
 1477864592.index
-1837067418.index
 1423174622.index
+1837067418.index
 2859655447.index
 1063495750.index
 3379766261.index
@@ -9,8 +9,8 @@ INDEX VERSION 1.125+E:\gitfile\javanettextbook\javanettextbook\.metadata\.plugin
 1923867299.index
 977264670.index
 3311753438.index
-472920187.index
 1813868702.index
+472920187.index
 282034758.index
 305301202.index
 1622348384.index

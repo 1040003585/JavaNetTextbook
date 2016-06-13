@@ -10,6 +10,7 @@ public class ClientTest {
 		InetAddress address = InetAddress.getByName("239.1.2.3");
 //		MulticastSocket socket = new MulticastSocket(22363);
 //		InetAddress address = InetAddress.getByName("222.17.106.99");
+//		socket.setTimeToLive(0);//ÔÚ±¾»ú
 		socket.joinGroup(address);
 		DatagramPacket packet;
 		for (int i = 0; i < 5; i++) {

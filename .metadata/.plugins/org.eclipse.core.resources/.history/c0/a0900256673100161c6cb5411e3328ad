@@ -1,0 +1,25 @@
+package _5_4组播套接字编程示例._5_4_1组播套接字CS程序;
+
+import java.io.IOException;
+import java.net.DatagramPacket;
+import java.net.InetAddress;
+import java.net.MulticastSocket;
+import java.net.UnknownHostException;
+
+public class MulticastClient {
+
+	public static void main(String[] args) {
+		
+		try {
+			InetAddress address=InetAddress.getByName("224.0.0.1");
+			int port=5000;
+			byte[] data="multicastsocket programming".getBytes();
+			DatagramPacket datap = new DatagramPacket(data,data.length,address,port);
+			MulticastSocket multicastSocket=new MulticastSocket();
+			multicastSocket.send(datap);
+		} catch (UnknownHostException e) {
+		} catch (IOException e) {
+		}
+		
+	}
+}

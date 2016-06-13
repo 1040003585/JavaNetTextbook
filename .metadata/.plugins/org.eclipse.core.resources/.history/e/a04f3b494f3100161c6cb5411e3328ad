@@ -1,0 +1,6 @@
+package java.net;
+
+public interface SocketOptions {
+
+	
+}

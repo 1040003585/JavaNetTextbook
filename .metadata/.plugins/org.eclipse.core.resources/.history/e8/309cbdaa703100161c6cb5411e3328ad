@@ -1,0 +1,6 @@
+package _99Socket_Wu;
+
+public interface SocketOptions {
+
+	
+}
