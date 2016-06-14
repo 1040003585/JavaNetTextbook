@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1465827679015
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.file.saveAll,1465827722328
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827735937
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827754531
+activated,view,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.PackageExplorer,1465827754593
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827755593
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827758250
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.rename,1465827758296
+started,bundle,org.eclipse.help.base,3.3.103.v20090128_34x,org.eclipse.help.base,1465827759546
+started,bundle,org.eclipse.help.ui,3.3.102.v20081014_34x,org.eclipse.help.ui,1465827759718
+started,bundle,org.eclipse.ui.cheatsheets,3.3.101.v20080702_34x,org.eclipse.ui.cheatsheets,1465827760046
+started,bundle,org.eclipse.ui.intro,3.2.201.v20080702_34x,org.eclipse.ui.intro,1465827760109
+opened,view,org.eclipse.help.ui,3.3.102.v20081014_34x,org.eclipse.help.ui.HelpView,1465827760468
+activated,view,org.eclipse.help.ui,3.3.102.v20081014_34x,org.eclipse.help.ui.HelpView,1465827760593
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.rename,1465827762109
+activated,view,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.PackageExplorer,1465827762796
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827763125
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827766421
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.rename,1465827766500
+activated,view,org.eclipse.ui.views,3.3.1.M20081112-0800,org.eclipse.ui.views.ContentOutline,1465827769765
+activated,view,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.PackageExplorer,1465827769875
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1465827777359
+activated,view,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.PackageExplorer,1465827801812
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827822609
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465827841421

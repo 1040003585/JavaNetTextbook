@@ -23,6 +23,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+
 public class UDPChat implements ActionListener, Runnable {
 
 	JTextArea showArea;
