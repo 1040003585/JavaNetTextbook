@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="15" version="2.0">
+<workbench progressCount="22" version="2.0">
 <workbenchAdvisor/>
-<window height="738" maximized="true" width="1024" x="197" y="30">
+<window height="738" maximized="true" minimized="true" width="1242" x="38" y="28">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -45,6 +45,33 @@
 <part id="9"/>
 <part id="10"/>
 <part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
 </presentation>
 </folder>
 </info>
@@ -77,7 +104,7 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_97DatagramSocket_Wu/DefaultInterface.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramSocket.java" partName="DatagramSocket.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java" title="DatagramSocket.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java" workbook="DefaultEditorWorkbook">
+<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramSocket.java" partName="DatagramSocket.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java" title="DatagramSocket.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java"/>
 <editorState selectionLength="30" selectionOffset="194"/>
 </editor>
@@ -96,6 +123,114 @@
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramSocketImplFactory.java" partName="DatagramSocketImplFactory.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_97DatagramSocket_Wu/DatagramSocketImplFactory.java" title="DatagramSocketImplFactory.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramSocketImplFactory.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocketImplFactory.java"/>
 <editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastClient.java" partName="MulticastClient.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastClient.java" title="MulticastClient.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastClient.java"/>
+<editorState selectionLength="0" selectionOffset="371"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerTest.java" partName="ServerTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/ServerTest.java" title="ServerTest.java" tooltip="00实验课/src/_07实验七_组播编程/ServerTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/ServerTest.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerThread.java" partName="ServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/ServerThread.java" title="ServerThread.java" tooltip="00实验课/src/_07实验七_组播编程/ServerThread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/ServerThread.java"/>
+<editorState selectionLength="0" selectionOffset="597"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="multicast.java" partName="multicast.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject/multicast.java" title="multicast.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject/multicast.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject/multicast.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerUdp.java" partName="ServerUdp.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject/ServerUdp.java" title="ServerUdp.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject/ServerUdp.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject/ServerUdp.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="multicast.java" partName="multicast.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject2/MulticastClient/test/multicast.java" title="multicast.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject2/MulticastClient/test/multicast.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/MulticastClient/test/multicast.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastSender_UTF8.java" partName="MulticastSender_UTF8.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastSender_UTF8.java" title="MulticastSender_UTF8.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastSender_UTF8.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastSender_UTF8.java"/>
+<editorState selectionLength="0" selectionOffset="1480"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastReceive_UTF8.java" partName="MulticastReceive_UTF8.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_UTF8.java" title="MulticastReceive_UTF8.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_UTF8.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_UTF8.java"/>
+<editorState selectionLength="0" selectionOffset="1428"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest4_Windows.java" partName="IOTest4_Windows.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_01实验一_基础的IO流编程技术/IOTest4_Windows.java" title="IOTest4_Windows.java" tooltip="00实验课/src/_01实验一_基础的IO流编程技术/IOTest4_Windows.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_01实验一_基础的IO流编程技术/IOTest4_Windows.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPClientTest.java" partName="UDPClientTest.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_05实验五_基于UDP编程实验/UDPClientTest.java" title="UDPClientTest.java" tooltip="00实验课/src/_05实验五_基于UDP编程实验/UDPClientTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_05实验五_基于UDP编程实验/UDPClientTest.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatClient.java" partName="ChatClient.java" path="E:/gitfile/javanettextbook/javanettextbook/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" title="ChatClient.java" tooltip="04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatClient.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChatServer.java" partName="ChatServer.java" path="E:/gitfile/javanettextbook/javanettextbook/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java" title="ChatServer.java" tooltip="04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04第4章_套接字/src/_4_3Socket编程示例/_4_4_4简单的聊天程序/ChatServer.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IOTest0_Simple.java" partName="IOTest0_Simple.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_01实验一_基础的IO流编程技术/IOTest0_Simple.java" title="IOTest0_Simple.java" tooltip="00实验课/src/_01实验一_基础的IO流编程技术/IOTest0_Simple.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_01实验一_基础的IO流编程技术/IOTest0_Simple.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/Main.java" title="Main.java" tooltip="00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/Main.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/Main.java"/>
+<editorState selectionLength="0" selectionOffset="2323"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleThreadCopy.java" partName="SingleThreadCopy.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/SingleThreadCopy.java" title="SingleThreadCopy.java" tooltip="00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/SingleThreadCopy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/SingleThreadCopy.java"/>
+<editorState selectionLength="0" selectionOffset="1587"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiThreadCopy.java" partName="MultiThreadCopy.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/MultiThreadCopy.java" title="MultiThreadCopy.java" tooltip="00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/MultiThreadCopy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_01实验一_基础的IO流编程技术/MultiThreadIOtest/MultiThreadCopy.java"/>
+<editorState selectionLength="0" selectionOffset="752"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BroadCastWord.java" partName="BroadCastWord.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/BroadCastWord.java" title="BroadCastWord.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/BroadCastWord.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/BroadCastWord.java"/>
+<editorState selectionLength="5106" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Receive.java" partName="Receive.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive.java" title="Receive.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive.java"/>
+<editorState selectionLength="3953" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastServerThread.java" partName="MulticastServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastServerThread.java" title="MulticastServerThread.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastServerThread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastServerThread.java"/>
+<editorState selectionLength="0" selectionOffset="921"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QuoteServerThread.java" partName="QuoteServerThread.java" path="E:/gitfile/javanettextbook/javanettextbook/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/QuoteServerThread.java" title="QuoteServerThread.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/QuoteServerThread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/QuoteServerThread.java"/>
+<editorState selectionLength="0" selectionOffset="715"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastReceive_GBK.java" partName="MulticastReceive_GBK.java" path="E:/gitfile/javanettextbook/javanettextbook/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_GBK.java" title="MulticastReceive_GBK.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_GBK.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_GBK.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxy.java" partName="HttpProxy.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxy.java" title="HttpProxy.java" tooltip="11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxy.java"/>
+<editorState selectionLength="0" selectionOffset="1318"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketProxy.java" partName="SocketProxy.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/JavaHttpProxy/SocketProxy.java" title="SocketProxy.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketProxy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketProxy.java"/>
+<editorState selectionLength="0" selectionOffset="334"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketThread.java" partName="SocketThread.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/JavaHttpProxy/SocketThread.java" title="SocketThread.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketThread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThread.java"/>
+<editorState selectionLength="0" selectionOffset="1295"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketThreadInput.java" partName="SocketThreadInput.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/JavaHttpProxy/SocketThreadInput.java" title="SocketThreadInput.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketThreadInput.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThreadInput.java"/>
+<editorState selectionLength="0" selectionOffset="193"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTTPSession.java" partName="HTTPSession.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HTTPSession.java" title="HTTPSession.java" tooltip="11第11章_代理服务器/src/JavaLightWeightHttpProxy/HTTPSession.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HTTPSession.java"/>
+<editorState selectionLength="4" selectionOffset="3532"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxyServer.java" partName="HttpProxyServer.java" path="E:/gitfile/javanettextbook/javanettextbook/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxyServer.java" title="HttpProxyServer.java" tooltip="11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxyServer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxyServer.java"/>
+<editorState selectionLength="0" selectionOffset="424"/>
 </editor>
 </editors>
 <views>
@@ -177,7 +312,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -336,13 +471,13 @@
 <new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.help.ui.HelpView"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="org.eclipse.jdt.ui.PackageExplorer"/>
-<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
-<view id="org.eclipse.help.ui.HelpView"/>
 <fastViewBars>
 <fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@507c04" orientation="512" selectedTabId="org.eclipse.mylyn.tasks.ui.views.tasks" style="0">
 <fastViews>
@@ -370,7 +505,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="756" ratioRight="252" relationship="2" relative="left">
+<info folder="true" part="stickyFolderRight" ratio="0.82228917" ratioLeft="1092" ratioRight="236" relationship="2" relative="left">
 <folder activePageID="org.eclipse.help.ui.HelpView" appearance="2" expanded="2">
 <page content="org.eclipse.help.ui.HelpView" label="Help"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
@@ -380,8 +515,8 @@
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.24472892" ratioLeft="325" ratioRight="1003" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.701278" ratioLeft="439" ratioRight="187" relationship="4" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.2562554" ratioLeft="297" ratioRight="862" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.6585761" ratioLeft="407" ratioRight="211" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -405,7 +540,7 @@
 </folder>
 </info>
 <info folder="true" part="right" ratio="0.49892473" ratioLeft="232" ratioRight="233" relationship="4" relative="org.eclipse.ui.internal.ViewStack@507c04">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
@@ -419,173 +554,171 @@
 <workingSets/>
 <navigationHistory>
 <editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/QuoteServerThread.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_GBK.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_UTF8.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastSender_UTF8.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketProxy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThread.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThreadInput.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThreadOutput.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/MyHttpProxy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaMultiThreadHttpProxy/MyHttpProxy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HTTPSession.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxyServer.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/MulticastSocket.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=05第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(NetworkInterface.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/NetworkInterface.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DefaultInterface.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocketImpl.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/05第5章_数据报套接字/src/java/net/SocketOptions.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=05第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(DatagramSocket.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/AbstractPlainDatagramSocketImpl.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/UDPSender.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/UDPReceiver.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/TwoStacksPlainDatagramSocketImpl.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=05第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(InetAddress.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DualStackPlainDatagramSocketImpl.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DatagramPacket.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/SocketOptions.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DefaultDatagramSocketImplFactory.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocketImplFactory.java"/>
 </editors>
-<item historyLabel="NetworkInterface.class" index="2">
-<position info="not_deleted" x="690" y="16"/>
+<item historyLabel="MulticastReceive_GBK.java" index="1">
+<position info="not_deleted" x="239" y="0"/>
 </item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="QuoteServerThread.java" index="0">
+<position info="not_deleted" x="715" y="0"/>
+</item>
+<item historyLabel="MulticastReceive_UTF8.java" index="2">
+<position info="not_deleted" x="178" y="0"/>
+</item>
+<item historyLabel="MulticastSender_UTF8.java" index="3">
+<position info="not_deleted" x="1101" y="0"/>
+</item>
+<item historyLabel="MulticastReceive_UTF8.java" index="2">
+<position info="not_deleted" x="0" y="1706"/>
+</item>
+<item historyLabel="MulticastSender_UTF8.java" index="3">
+<position info="not_deleted" x="1480" y="0"/>
+</item>
+<item historyLabel="MulticastReceive_UTF8.java" index="2">
+<position info="not_deleted" x="1706" y="0"/>
+</item>
+<item historyLabel="MulticastReceive_GBK.java" index="1">
 <position/>
 </item>
-<item historyLabel="DatagramSocketImpl.java" index="5">
+<item historyLabel="MulticastReceive_UTF8.java" index="2">
+<position info="not_deleted" x="1428" y="0"/>
+</item>
+<item historyLabel="MulticastSender_UTF8.java" index="3">
+<position info="not_deleted" x="1480" y="0"/>
+</item>
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="SocketProxy.java" index="5">
 <position/>
 </item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="11571" y="7"/>
-</item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="11675" y="0"/>
-</item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="2161" y="0"/>
-</item>
-<item historyLabel="DatagramSocketImpl.java" index="5">
-<position info="not_deleted" x="382" y="18"/>
-</item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="2161" y="0"/>
-</item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="SocketThread.java" index="6">
 <position/>
 </item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="2161" y="0"/>
+<item historyLabel="SocketProxy.java" index="5">
+<position info="not_deleted" x="105" y="0"/>
 </item>
-<item historyLabel="SocketOptions.java" index="6">
+<item historyLabel="SocketThread.java" index="6">
+<position info="not_deleted" x="2244" y="0"/>
+</item>
+<item historyLabel="SocketThreadInput.java" index="7">
 <position/>
 </item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="2161" y="0"/>
+<item historyLabel="SocketThread.java" index="6">
+<position info="not_deleted" x="2244" y="0"/>
 </item>
-<item historyLabel="DatagramSocket.class" index="7">
-<position info="not_deleted" x="10755" y="0"/>
-</item>
-<item historyLabel="AbstractPlainDatagramSocketImpl.java" index="8">
-<position info="not_deleted" x="1186" y="0"/>
-</item>
-<item historyLabel="UDPSender.java" index="9">
-<position info="not_deleted" x="721" y="0"/>
-</item>
-<item historyLabel="UDPReceiver.java" index="10">
-<position info="not_deleted" x="637" y="0"/>
-</item>
-<item historyLabel="UDPReceiver.java" index="10">
+<item historyLabel="SocketThreadOutput.java" index="8">
 <position/>
 </item>
-<item historyLabel="UDPSender.java" index="9">
+<item historyLabel="SocketProxy.java" index="5">
+<position info="not_deleted" x="334" y="0"/>
+</item>
+<item historyLabel="SocketThread.java" index="6">
+<position info="not_deleted" x="2244" y="0"/>
+</item>
+<item historyLabel="HttpProxy.java" index="9">
 <position/>
 </item>
-<item historyLabel="TwoStacksPlainDatagramSocketImpl.java" index="11">
+<item historyLabel="HttpProxy2.java" index="10">
 <position/>
 </item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="HttpProxy.java" index="9">
 <position/>
 </item>
-<item historyLabel="InetAddress.class" index="12">
-<position info="not_deleted" x="6935" y="0"/>
+<item historyLabel="SocketThread.java" index="6">
+<position info="not_deleted" x="1295" y="0"/>
 </item>
-<item historyLabel="TwoStacksPlainDatagramSocketImpl.java" index="11">
-<position info="not_deleted" x="673" y="0"/>
-</item>
-<item historyLabel="AbstractPlainDatagramSocketImpl.java" index="8">
-<position info="not_deleted" x="1041" y="0"/>
-</item>
-<item historyLabel="DatagramSocketImpl.java" index="5">
-<position info="not_deleted" x="7709" y="0"/>
-</item>
-<item historyLabel="TwoStacksPlainDatagramSocketImpl.java" index="11">
-<position info="not_deleted" x="673" y="0"/>
-</item>
-<item historyLabel="NetworkInterface.java" index="3">
+<item historyLabel="HttpProxy2.java" index="10">
 <position/>
 </item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="MyHttpProxy.java" index="11">
 <position/>
 </item>
-<item historyLabel="DualStackPlainDatagramSocketImpl.java" index="13">
+<item historyLabel="HttpProxy.java" index="4">
+<position info="not_deleted" x="757" y="0"/>
+</item>
+<item historyLabel="MyHttpProxy.java" index="12">
 <position/>
 </item>
-<item historyLabel="NetworkInterface.java" index="3">
-<position info="not_deleted" x="999" y="0"/>
+<item historyLabel="MyHttpProxy.java" index="12">
+<position info="not_deleted" x="6135" y="0"/>
 </item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="TwoStacksPlainDatagramSocketImpl.java" index="11">
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="MulticastSocket.java" index="1">
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="TwoStacksPlainDatagramSocketImpl.java" index="11">
-<position info="not_deleted" x="5681" y="0"/>
-</item>
-<item historyLabel="DualStackPlainDatagramSocketImpl.java" index="13">
+<item historyLabel="HTTPSession.java" index="13">
 <position/>
 </item>
-<item historyLabel="DefaultInterface.java" index="4">
+<item historyLabel="SocketThread.java" index="6">
+<position info="not_deleted" x="1295" y="0"/>
+</item>
+<item historyLabel="HttpProxy.java" index="4">
+<position info="not_deleted" x="1580" y="0"/>
+</item>
+<item historyLabel="HTTPSession.java" index="13">
 <position/>
 </item>
-<item historyLabel="DatagramSocketImpl.java" index="5">
-<position info="not_deleted" x="7709" y="0"/>
-</item>
-<item historyLabel="DatagramSocket.java" index="0">
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="InetAddress.class" index="12">
-<position info="not_deleted" x="54646" y="15"/>
+<item historyLabel="HTTPSession.java" index="13">
+<position info="not_deleted" x="226" y="0"/>
 </item>
-<item historyLabel="DatagramSocket.java" index="0">
-<position info="not_deleted" x="194" y="30"/>
-</item>
-<item historyLabel="AbstractPlainDatagramSocketImpl.java" index="8">
-<position info="not_deleted" x="1041" y="0"/>
-</item>
-<item historyLabel="DatagramPacket.java" index="14">
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="TwoStacksPlainDatagramSocketImpl.java" index="11">
-<position info="not_deleted" x="5681" y="0"/>
+<item historyLabel="HTTPSession.java" index="13">
+<position info="not_deleted" x="310" y="0"/>
 </item>
-<item historyLabel="SocketOptions.java" index="15">
+<item historyLabel="HttpProxy.java" index="4">
+<position info="not_deleted" x="1575" y="0"/>
+</item>
+<item historyLabel="HttpProxyServer.java" index="14">
 <position/>
 </item>
-<item historyLabel="DualStackPlainDatagramSocketImpl.java" index="13">
+<item historyLabel="HTTPSession.java" index="13">
+<position info="not_deleted" x="3249" y="0"/>
+</item>
+<item historyLabel="HttpProxy.java" index="4">
 <position/>
 </item>
-<item historyLabel="DefaultInterface.java" index="4">
-<position/>
+<item historyLabel="HTTPSession.java" index="13">
+<position info="not_deleted" x="344" y="11"/>
 </item>
-<item historyLabel="DefaultDatagramSocketImplFactory.java" index="16">
-<position/>
+<item historyLabel="HttpProxy.java" index="4">
+<position info="not_deleted" x="1249" y="0"/>
 </item>
-<item historyLabel="DatagramSocketImplFactory.java" index="17">
-<position/>
+<item historyLabel="HTTPSession.java" index="13">
+<position info="not_deleted" x="344" y="11"/>
 </item>
-<item historyLabel="DatagramSocketImpl.java" index="5">
-<position info="not_deleted" x="7" y="0"/>
+<item historyLabel="HttpProxy.java" index="4">
+<position info="not_deleted" x="1318" y="0"/>
 </item>
-<item active="true" historyLabel="DatagramSocket.java" index="0">
+<item historyLabel="HTTPSession.java" index="13">
+<position info="not_deleted" x="344" y="11"/>
+</item>
+<item active="true" historyLabel="DatagramSocket.java" index="15">
 <position info="not_deleted" x="194" y="30"/>
 </item>
 </navigationHistory>
@@ -594,13 +727,9 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
 <trimArea IMemento.internal.id="131072">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@507c04"/>
 <trimItem IMemento.internal.id="right"/>
-<trimItem IMemento.internal.id="stickyFolderRight"/>
 </trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
@@ -614,50 +743,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramSocketImplFactory.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramSocketImplFactory.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocketImplFactory.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxyServer.java" tooltip="11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxyServer.java">
+<persistable path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxyServer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultDatagramSocketImplFactory.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DefaultDatagramSocketImplFactory.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DefaultDatagramSocketImplFactory.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTTPSession.java" tooltip="11第11章_代理服务器/src/JavaLightWeightHttpProxy/HTTPSession.java">
+<persistable path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HTTPSession.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketOptions.java" tooltip="00实验课/src/_97DatagramSocket_Wu/SocketOptions.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/SocketOptions.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyHttpProxy.java" tooltip="11第11章_代理服务器/src/_11_2用Java开发代理服务器/MyHttpProxy.java">
+<persistable path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/MyHttpProxy.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramPacket.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramPacket.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DatagramPacket.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxy2.java" tooltip="11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy2.java">
+<persistable path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramSocket.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocket.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxy.java" tooltip="11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java">
+<persistable path="/11第11章_代理服务器/src/_11_2用Java开发代理服务器/HttpProxy.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultInterface.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DefaultInterface.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DefaultInterface.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketThreadOutput.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketThreadOutput.java">
+<persistable path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThreadOutput.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DualStackPlainDatagramSocketImpl.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DualStackPlainDatagramSocketImpl.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DualStackPlainDatagramSocketImpl.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketThreadInput.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketThreadInput.java">
+<persistable path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThreadInput.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NetworkInterface.java" tooltip="00实验课/src/_97DatagramSocket_Wu/NetworkInterface.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/NetworkInterface.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketThread.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketThread.java">
+<persistable path="/11第11章_代理服务器/src/JavaHttpProxy/SocketThread.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatagramSocketImpl.java" tooltip="00实验课/src/_97DatagramSocket_Wu/DatagramSocketImpl.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/DatagramSocketImpl.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocketProxy.java" tooltip="11第11章_代理服务器/src/JavaHttpProxy/SocketProxy.java">
+<persistable path="/11第11章_代理服务器/src/JavaHttpProxy/SocketProxy.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractPlainDatagramSocketImpl.java" tooltip="00实验课/src/_97DatagramSocket_Wu/AbstractPlainDatagramSocketImpl.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/AbstractPlainDatagramSocketImpl.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HttpProxy.java" tooltip="11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxy.java">
+<persistable path="/11第11章_代理服务器/src/JavaLightWeightHttpProxy/HttpProxy.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="InetAddress.class" tooltip="java.net.InetAddress">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=05第5章_数据报套接字/D:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.net(InetAddress.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastReceive_GBK.java" tooltip="00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_GBK.java">
+<persistable path="/00实验课/src/_07实验七_组播编程/MulticastProject2/test/MulticastReceive_GBK.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastSocket.java" tooltip="00实验课/src/_97DatagramSocket_Wu/MulticastSocket.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/MulticastSocket.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QuoteServerThread.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/QuoteServerThread.java">
+<persistable path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/QuoteServerThread.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TwoStacksPlainDatagramSocketImpl.java" tooltip="00实验课/src/_97DatagramSocket_Wu/TwoStacksPlainDatagramSocketImpl.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/TwoStacksPlainDatagramSocketImpl.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MulticastServerThread.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastServerThread.java">
+<persistable path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_1组播套接字CS程序/MulticastServerThread.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPSender.java" tooltip="00实验课/src/_97DatagramSocket_Wu/UDPSender.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/UDPSender.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Receive2.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive2.java">
+<persistable path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UDPReceiver.java" tooltip="00实验课/src/_97DatagramSocket_Wu/UDPReceiver.java">
-<persistable path="/00实验课/src/_97DatagramSocket_Wu/UDPReceiver.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Receive.java" tooltip="05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive.java">
+<persistable path="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive.java"/>
 </file>
 </mruList>
 </workbench>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 1 elements(s) to &apos;11第11章_代理服务器/src/JavaMultiThreadHttpProxy&apos;&#x0D;&#x0A;- Original project: &apos;11第11章_代理服务器&apos;&#x0D;&#x0A;- Destination element: &apos;11第11章_代理服务器/src/JavaMultiThreadHttpProxy&apos;&#x0D;&#x0A;- Original element: &apos;_11_2用Java开发代理服务器.MyHttpProxy.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;JavaMultiThreadHttpProxy" element1="/src&lt;_11_2用Java开发代理服务器{MyHttpProxy.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1465968778394" units="1" version="1.0"/>
+</session>

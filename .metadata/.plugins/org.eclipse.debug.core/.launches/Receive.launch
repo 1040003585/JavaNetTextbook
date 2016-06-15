@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/05第5章_数据报套接字/src/_5_4组播套接字编程示例/_5_4_2组播应用_英汉词典/Receive.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_5_4组播套接字编程示例._5_4_2组播应用_英汉词典.Receive"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="05第5章_数据报套接字"/>
+</launchConfiguration>

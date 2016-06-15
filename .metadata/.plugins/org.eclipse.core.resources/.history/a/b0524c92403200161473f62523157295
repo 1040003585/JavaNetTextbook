@@ -1,0 +1,13 @@
+package _5_4组播套接字编程示例._5_4_1组播套接字CS程序;
+
+import java.io.IOException;
+import java.net.DatagramPacket;
+import java.net.MulticastSocket;
+
+public class MulticastServer {
+
+	public static void main(String[] args) throws IOException {
+		
+		new QuoteServerThread().start();
+	}
+}

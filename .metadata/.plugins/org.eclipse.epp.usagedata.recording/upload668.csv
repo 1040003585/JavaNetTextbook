@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967399988
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967410957
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.paste,1465967413894
+executed,command,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.edit.text.java.format,1465967416644
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.cut,1465967418894
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.paste,1465967420394
+executed,command,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.edit.text.java.format,1465967428972
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.undo,1465967431363
+started,bundle,org.eclipse.mylyn.java.tasks,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.java.tasks,1465967431504
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967435222
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967439551
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967443082
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.paste,1465967443660
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.undo,1465967444863
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967445644
+activated,view,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.PackageExplorer,1465967448582
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1465967449160
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.file.saveAll,1465967453816
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967459426
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967459535
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967461097
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967462394
+opened,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1465967462738
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1465967462972
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1465967465441

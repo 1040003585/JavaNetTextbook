@@ -19,7 +19,7 @@ class ServerThread extends Thread {
 		super(name);
 		socket = new DatagramSocket(50000);
 		try {
-			in = new BufferedReader(new FileReader("one-liners.txt"));
+			in = new BufferedReader(new FileReader("D:\\one-liners.txt"));
 		} catch (FileNotFoundException e) {
 			System.err.println("Could not open quote file. Serving time instead.");
 		}

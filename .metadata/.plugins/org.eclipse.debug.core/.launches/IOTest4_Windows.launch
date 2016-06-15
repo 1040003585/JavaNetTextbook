@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/00实验课/src/_01实验一_基础的IO流编程技术/IOTest4_Windows.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_01实验一_基础的IO流编程技术.IOTest4_Windows"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="00实验课"/>
+</launchConfiguration>

@@ -1,4 +1,4 @@
-#Mon Jun 13 21:40:40 CST 2016
+#Tue Jun 14 20:49:59 CST 2016
 eclipse.preferences.version=1
 encoding//src/_04\u5B9E\u9A8C\u56DB_\u9762\u5411SOCKET\u7F16\u7A0B/SocketClient.java=UTF-8
 encoding//src/_04\u5B9E\u9A8C\u56DB_\u9762\u5411SOCKET\u7F16\u7A0B/SocketClient_SignIn.java=UTF-8
@@ -13,4 +13,6 @@ encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject/Ud
 encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject/multicast.java=UTF-8
 encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject/user.java=UTF-8
 encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject2/MulticastClient/test/multicast.java=UTF-8
-encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject2/test/MulticastSender.java=UTF-8
+encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject2/test/MulticastReceive_GBK.java=UTF-8
+encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject2/test/MulticastReceive_UTF8.java=UTF-8
+encoding//src/_07\u5B9E\u9A8C\u4E03_\u7EC4\u64AD\u7F16\u7A0B/MulticastProject2/test/MulticastSender_UTF8.java=UTF-8

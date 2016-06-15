@@ -1,0 +1,48 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package 实验一.网络编程基础环境实验;
+
+/**
+ *
+ * @author skyward
+ */
+import java.io.*;
+
+public class MultiThreadCopy {
+
+    private String sourceName;
+    private String targetName;
+
+    public MultiThreadCopy(String sourceName, String targetName) {
+        this.sourceName = sourceName;
+        this.targetName = targetName;
+    }
+
+    public void copy() {
+        try {
+            //定义输入流
+            FileInputStream fis
+                    = new FileInputStream(sourceName);
+            BufferedInputStream bis
+                    = new BufferedInputStream(fis);
+            //定义输出流
+            FileOutputStream fos
+                    = new FileOutputStream(targetName);
+            BufferedOutputStream bos
+                    = new BufferedOutputStream(fos);
+            DataOutputStream dos
+                    = new DataOutputStream(bos);
+            int b;
+            while ((b = bis.read()) != -1) {
+                dos.write(b);
+            }
+            bis.close();
+            dos.close();
+        } catch (IOException e) {
+            System.err.println(e);
+        }
+    }
+}
