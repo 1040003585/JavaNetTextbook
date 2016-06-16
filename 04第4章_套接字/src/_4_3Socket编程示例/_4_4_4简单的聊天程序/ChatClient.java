@@ -77,7 +77,7 @@ public class ChatClient implements ActionListener, Runnable {
 
 		try {
 			// 创建套接字连接到服务器
-			connectToClientSocket = new Socket("localhost", 9955);/**/
+			connectToClientSocket = new Socket("192.168.1.100", 9988);/**/
 			inFromClient = new DataInputStream(connectToClientSocket
 					.getInputStream());
 			outToClient = new DataOutputStream(connectToClientSocket

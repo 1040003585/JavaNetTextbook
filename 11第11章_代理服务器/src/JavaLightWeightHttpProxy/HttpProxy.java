@@ -34,6 +34,7 @@ public class HttpProxy {
 				try {
 					while (true) {
 						socket = serverSocket.accept();
+						System.out.println("有人来送钱了");
 						if (socket != null) {
 							new HTTPSession(socket);
 						}

@@ -1,9 +1,0 @@
-
-
-public class Launch {
-	public static void main(String[] args) {
-		Mother mother = new Mother("mother");
-		Son son = new Son("son");
-		son.startup();
-	}
-}

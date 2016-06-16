@@ -15,7 +15,7 @@ import java.net.Socket;
 public class SocketProxy {
 
 	public static void main(String[] args) throws Exception {
-		ServerSocket serverSocket = new ServerSocket(8888);
+		ServerSocket serverSocket = new ServerSocket(9999);
 		while (true) {
 			Socket socket = null;
 			try {
