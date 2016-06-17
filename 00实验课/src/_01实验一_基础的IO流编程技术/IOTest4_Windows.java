@@ -1,16 +1,5 @@
 package _01实验一_基础的IO流编程技术;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * gai.java
- *
- * Created on 2009-6-4, 16:13:41
- */
-
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.DataOutputStream;
@@ -21,7 +10,12 @@ import javax.swing.JFileChooser;
 
 /**
  * 
- * @author sys
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: .java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-17/下午05:24:34
+ * Description:
  */
 @SuppressWarnings("serial")
 public class IOTest4_Windows extends javax.swing.JFrame {

@@ -2,12 +2,12 @@
 <section name="Workbench">
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<item value="filter_imports;" key="filters_last_used"/>
-	<item value="500" key="CallHierarchyViewPart.ratio3"/>
 	<item value="E:\gitfile\javanettextbook\javanettextbook\ExternalJarsAndTools\ExternalJars" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="500" key="CallHierarchyViewPart.ratio3"/>
 	<item value="500" key="CallHierarchyViewPart.ratio1"/>
-	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
-	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="3" key="CallHierarchyViewPart.orientation"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
 	<item value="1" key="SearchScopeActionGroup.search_scope_type"/>
 	<item value="2" key="CallHierarchyViewPart.field_mode"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
@@ -20,8 +20,8 @@
 	<section name="nls_accessor_history">
 		<section name="0">
 			<item value="Messages" key="accessorName"/>
-			<item value="=00实验课/src&lt;_01基础的IO流编程技术" key="accessorPackage"/>
 			<item value="=00实验课/src&lt;_01基础的IO流编程技术" key="bundlePackage"/>
+			<item value="=00实验课/src&lt;_01基础的IO流编程技术" key="accessorPackage"/>
 			<item value="messages.properties" key="bundleName"/>
 		</section>
 	</section>
@@ -31,8 +31,8 @@
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
 		<item value="357" key="DIALOG_WIDTH"/>
 		<item value="93" key="DIALOG_Y_ORIGIN"/>
-		<item value="100" key="DIALOG_X_ORIGIN"/>
 		<item value="300" key="DIALOG_HEIGHT"/>
+		<item value="100" key="DIALOG_X_ORIGIN"/>
 		<item value="1|宋体|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|宋体" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="RefactoringWizard.preview">
@@ -49,8 +49,8 @@
 	<section name="org.eclipse.jdt.internal.ui.preferences.EditTemplateDialog_dialogBounds">
 		<item value="610" key="DIALOG_WIDTH"/>
 		<item value="150" key="DIALOG_Y_ORIGIN"/>
-		<item value="17" key="DIALOG_X_ORIGIN"/>
 		<item value="256" key="DIALOG_HEIGHT"/>
+		<item value="17" key="DIALOG_X_ORIGIN"/>
 		<item value="1|宋体|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|宋体" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
@@ -73,24 +73,24 @@
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+		<item value="false" key="updateSimilarElements"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+		<item value="true" key="create_main"/>
+	</section>
 	<section name="SearchInDialog">
 		<item value="true" key="SearchInJRE"/>
 		<item value="true" key="SearchInProjects"/>
 		<item value="true" key="SearchInAppLibs"/>
 		<item value="true" key="SearchInSources"/>
-	</section>
-	<section name="NewClassWizardPage">
-		<item value="false" key="create_constructor"/>
-		<item value="true" key="create_main"/>
-		<item value="true" key="create_unimplemented"/>
-	</section>
-	<section name="org.eclipse.ltk.ui.refactoring.settings">
-		<item value="*" key="patterns"/>
-		<item value="false" key="updateQualifiedNames"/>
-		<item value="false" key="renameSubpackages"/>
-		<item value="1" key="updateSimilarElementsMatchStrategy"/>
-		<item value="false" key="updateTextualMatches"/>
-		<item value="false" key="updateSimilarElements"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
 		<item value="false" key="GoIntoTopLevelTypeAction.isChecked"/>

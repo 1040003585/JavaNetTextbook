@@ -10,7 +10,12 @@ import java.io.IOException;
 
 /**
  * 
- * @author Wu_Being 2016.3.22
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: .java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-17/下午05:30:58
+ * Description:
  */
 public class IOTest1_SecurelyClose {
 	/**
@@ -18,8 +23,7 @@ public class IOTest1_SecurelyClose {
 	 * @param filepathAndFilenameIn
 	 * @param filepathAndFilenameOut
 	 */
-	public static void Input(String filepathAndFilenameIn,
-			String filepathAndFilenameOut) {
+	public static void Input(String filepathAndFilenameIn,String filepathAndFilenameOut) {
 		String filenameFrom = filepathAndFilenameIn;// 输入文件路径
 		String filenameTo = filepathAndFilenameOut; // 输出文件路径
 		FileInputStream fis = null;

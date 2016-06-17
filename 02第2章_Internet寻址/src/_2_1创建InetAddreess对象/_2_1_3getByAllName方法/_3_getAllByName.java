@@ -2,6 +2,7 @@ package _2_1创建InetAddreess对象._2_1_3getByAllName方法;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
+import java.util.Scanner;
 
 public class _3_getAllByName {
 
@@ -10,11 +11,13 @@ public class _3_getAllByName {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		if (args.length == 0) {
-			System.out.println("please input args");
-			return;
-		}
-		String hostString=args[0];
+//		if (args.length == 0) {
+//			System.out.println("please input args");
+//			return;
+//		}
+		Scanner scanner = new Scanner(System.in);
+		String hostString=scanner.nextLine();
+		
 		try {
 			InetAddress addresses[]=InetAddress.getAllByName(hostString);
 			for(InetAddress address :addresses){
