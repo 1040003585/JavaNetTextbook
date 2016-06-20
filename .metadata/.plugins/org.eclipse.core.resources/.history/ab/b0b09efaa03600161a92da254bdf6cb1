@@ -1,0 +1,5 @@
+package _6_7Ïß³Ì×é;
+
+public class TestThread3 extends Thread {
+
+}

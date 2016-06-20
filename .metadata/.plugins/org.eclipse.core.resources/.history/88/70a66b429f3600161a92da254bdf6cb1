@@ -1,0 +1,21 @@
+package _6_7线程组;
+/**
+ * 
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: .java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-20/下午12:23:14
+ * Description:
+ */
+public class TestAccess {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ThreadGroup yGroup11=new ThreadGroup("yGroup11name"),xGroup1=new ThreadGroup("xGroup1name");
+	}
+
+}

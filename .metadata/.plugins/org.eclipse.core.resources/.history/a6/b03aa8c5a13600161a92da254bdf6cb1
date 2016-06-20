@@ -1,0 +1,21 @@
+package _6_7Ïß³Ì×é;
+
+public class TestThread3 extends TestThread1 {
+
+	public TestThread3(ThreadGroup g, String name) {
+		super(g, name);
+		start();
+	}
+	public void run(){
+		ThreadGroup group=getThreadGroup().getParent().getParent();
+		group.list();//output
+		Thread[] groupThreads = new Thread[group.activeCount()];
+		group.enumerate(groupThreads);
+		for (int i = 0; i < groupThreads.length; i++) {
+			groupThreads[i].setPriority(MIN_PRIORITY);
+			((TestThread1)groupThreads[i]).f();//output
+		}
+		group.list();//output
+	}
+
+}
