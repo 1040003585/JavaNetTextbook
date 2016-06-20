@@ -1,0 +1,31 @@
+package _6_6守护线程;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+/**
+ * 
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: .java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-20/上午10:59:06
+ * Description:
+ */
+public class DaemonTest {
+
+	public static void main(String[] args) {
+		Thread thread = new Daemon();
+		System.out.println("thread.isDaemon()=" + thread.isDaemon());
+		//等待非守护线程的回车结束运行
+		InputStreamReader isr = new InputStreamReader(System.in);
+		BufferedReader br = new BufferedReader(isr);
+		System.out.println("UnDaemon Waiting for CR to end all daemon threads ......");
+		try {
+			br.readLine();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+}

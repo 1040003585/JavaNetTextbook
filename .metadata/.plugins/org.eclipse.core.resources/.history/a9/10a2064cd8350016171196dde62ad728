@@ -1,0 +1,5 @@
+package _6_1在Java中实现多线程._2_实现Runnable接口;
+
+public class MyThread implements Runnable{
+
+}

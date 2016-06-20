@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/06第6章_多线程/src/_6_1在Java中实现多线程/_2_实现Runnable接口/MyThread.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="_6_1在Java中实现多线程._2_实现Runnable接口.MyThread"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="06第6章_多线程"/>
+</launchConfiguration>

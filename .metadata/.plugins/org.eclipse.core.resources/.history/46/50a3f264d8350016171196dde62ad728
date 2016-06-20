@@ -1,0 +1,25 @@
+package _6_1在Java中实现多线程._2_实现Runnable接口;
+
+import com.sun.org.apache.bcel.internal.generic.RETURN;
+
+public class MyThread implements Runnable{
+
+	int count=1,number;
+	public MyThread(int num){
+		number=num;
+		System.out.println("创建线程"+number);
+	}
+	@Override
+	public void run() {
+		while(true){
+			System.out.println("线程"+number+":计数 "+count);
+			if(++count==6)return;
+		}
+	}
+
+	public static void main(String[] args) {
+		for (int i = 0; i < 5; i++) {
+			new Thread(new MyThread(i+1)).start();
+		}
+	}
+}

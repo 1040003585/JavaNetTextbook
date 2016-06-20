@@ -1,0 +1,11 @@
+package _6_6 ÿª§œﬂ≥Ã;
+
+public class Daemon extends Thread {
+
+	private static final int SIZE = 10;
+	private Thread[] threads = new Thread[SIZE];
+	public Daemon(){
+		setDaemon(true);
+		start();
+	}
+}

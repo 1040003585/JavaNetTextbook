@@ -1,0 +1,10 @@
+package _6_6 ÿª§œﬂ≥Ã;
+
+public class DaemonTest {
+
+	public static void main(String[] args) {
+		Thread thread = new Daemon();
+		System.out.println("thread.isDaemon()=" + thread.isDaemon());
+		
+	}
+}

@@ -1,0 +1,14 @@
+package _6_1在Java中实现多线程._1_继承Thread类;
+
+public class TestMitiThread {
+
+	public static void main(String[] args) {
+		System.out.println(Thread.currentThread().getName()+"线程运行开始");
+		new MitiThread("A").start();
+		new MitiThread("B").start();
+		
+		System.out.println(Thread.currentThread().getName()+"线程运行结束");
+	}
+	
+	
+}

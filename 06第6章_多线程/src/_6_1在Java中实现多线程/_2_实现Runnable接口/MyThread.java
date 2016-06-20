@@ -1,0 +1,35 @@
+package _6_1在Java中实现多线程._2_实现Runnable接口;
+/**
+ * 
+ * Copyright ? 2016 Authors. All rights reserved.
+ *
+ * FileName: .java
+ * @author : Wu_Being <1040003585@qq.com>
+ * Date/Time: 2016-6-19/下午12:51:06
+ * Description:
+ */
+public class MyThread implements Runnable{
+
+	int count=1,number;
+	public MyThread(int num){
+		number=num;
+		System.out.println("创建线程》》》》》》》》》》》》》》"+number);
+	}
+	@Override
+	public void run() {
+		while(true){
+			System.out.println("线程"+number+":计数 "+count);
+			if(++count==3){
+				System.out.println("线程#####################"+number+" 结束");
+				return;
+			}
+		}
+	}
+
+	public static void main(String[] args) {
+		for (int i = 0; i < 3; i++) {
+			new Thread(new MyThread(i+1)).start();
+		}
+	}
+}
+
