@@ -1,4 +1,4 @@
-#Mon Jun 20 10:57:42 CST 2016
+#Mon Jun 20 16:35:58 CST 2016
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
 org.eclipse.debug.ui.consoleBackground=0,0,0
 org.eclipse.debug.ui.outColor=192,192,192
@@ -7,4 +7,5 @@ Console.highWaterMark=88000
 preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
 preferredTargets=default\:default|default,org.eclipse.cdt.debug.ui.toggleCBreakpointTarget\:default|org.eclipse.cdt.debug.ui.toggleCBreakpointTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|
 eclipse.preferences.version=1
+org.eclipse.debug.ui.DebugView+org.eclipse.debug.ui.actions.ToggleStepFilters=true
 org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<viewBindings>\r\n<view id\="org.eclipse.ui.console.ConsoleView">\r\n<perspective id\="org.eclipse.jdt.ui.JavaPerspective" userAction\="opened"/>\r\n</view>\r\n</viewBindings>\r\n

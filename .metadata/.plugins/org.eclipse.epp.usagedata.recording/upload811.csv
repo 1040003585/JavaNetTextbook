@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1466526968031
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466526975078
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466526976312
+activated,view,org.eclipse.ui.console,3.3.1.v20090128_r342,org.eclipse.ui.console.ConsoleView,1466526982015
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1466526989531
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1466527003000
+activated,view,org.eclipse.ui.console,3.3.1.v20090128_r342,org.eclipse.ui.console.ConsoleView,1466527005234
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1466527011671
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527012109
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527014046
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527014796
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527016609
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527020281
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527093265
+activated,view,org.eclipse.ui.console,3.3.1.v20090128_r342,org.eclipse.ui.console.ConsoleView,1466527094171
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.selectAll,1466527094437
+no handler,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.copy,1466527094984
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1466527096171
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.selectAll,1466527097171
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.selectAll,1466527101718
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.copy,1466527102062
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527102578
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1466527103296
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.undo,1466527105781
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.edit.redo,1466527107687

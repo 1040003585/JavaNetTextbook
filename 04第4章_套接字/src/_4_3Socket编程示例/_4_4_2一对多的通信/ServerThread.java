@@ -62,7 +62,7 @@ public class ServerThread extends Thread {
 		try {
 			boolean goon=true;
 			while(goon){		
-				String string=inFromClient.readUTF();			//从socket中读取数据
+				String string=inFromClient.readUTF();			//阻塞等待从socket中读取数据
 				if(string.equals("end")==false){
 					string=dealWith(string,clientname);					//服务器执行特定功能
 					outToClient.writeUTF(string);				//向socket dos写数据

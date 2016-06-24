@@ -3,7 +3,7 @@ import socket
 socket.setdefaulttimeout(2)
 s=socket.socket()
 s.connect(("localhost",9955))
-print("C:input data (with 'end' for exit the program)")
+print("C:input data (with 'end' for exit the programing)")
 goon=True
 while(goon):
 	print "C:-------------------------------------"

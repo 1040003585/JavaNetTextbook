@@ -1,8 +1,0 @@
-package _5_4组播套接字编程示例._5_4_1组播套接字CS程序;
-
-import java.net.MulticastSocket;
-
-public class MulticastServer {
-
-	MulticastSocket 
-}

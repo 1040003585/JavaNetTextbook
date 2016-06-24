@@ -1,5 +1,0 @@
-package _99Socket_Wu;
-
-public abstract class DatagramSocketImpl {
-
-}

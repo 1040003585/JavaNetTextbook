@@ -1,8 +1,0 @@
-package _98OOB_Wu;
-
-public class Main extends Abs{
-
-	public static void main(String[] args) {
-		
-	}
-}
